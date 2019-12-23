@@ -1,0 +1,4548 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Loot_Enemy
+  serializedVersion: 6
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/CTRL_globalSRT_OgreParent/CTRL_globalSRT_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/CTRL_globalSRT_OgreParent/CTRL_globalSRT_Ogre/CTRL_spineGlobal_OgreParent/CTRL_spineGlobal_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0, y: -0, z: -0.17948662, w: 0.9837604}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 0, y: -0, z: -0.17948662, w: 0.9837604}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/CTRL_globalSRT_OgreParent/CTRL_globalSRT_Ogre/CTRL_spineGlobal_OgreParent/CTRL_spineGlobal_Ogre/CTRL_spine_C0_OgreParent/CTRL_spine_C0_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.5982041, y: -0.37703034, z: -0.5982041, w: 0.37703034}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 0.5982041, y: -0.37703034, z: -0.5982041, w: 0.37703034}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 2.217284e-16, y: -7.832063e-17, z: 0.055259563, w: 0.99847203}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 2.217284e-16, y: -7.832063e-17, z: 0.055259563, w: 0.99847203}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -8.9186124e-17, y: 3.0037367e-17, z: -0.07121312, w: 0.99746114}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: -8.9186124e-17, y: 3.0037367e-17, z: -0.07121312, w: 0.99746114}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0, y: -0, z: -0.10293126, w: 0.9946885}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 0, y: -0, z: -0.10293126, w: 0.9946885}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1.1093053e-17, y: -4.920563e-17, z: -0.06816902, w: 0.9976738}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 1.1093053e-17, y: -4.920563e-17, z: -0.06816902, w: 0.9976738}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_neck_C1_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 7.076391e-14, y: -1.7012232e-11, z: 0.004155064, w: 0.99999136}
+        inSlope: {x: 0.000057275676, y: -0.013784745, z: -0.0000023022294, w: -0.000002861023}
+        outSlope: {x: 0.000057275676, y: -0.013784745, z: -0.0000023022294, w: -0.000002861023}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.625
+        value: {x: 0.000074125535, y: -0.018264977, z: 0.004057632, w: 0.99982494}
+        inSlope: {x: -0.0002516234, y: 0.06505397, z: 0.0006881092, w: 0.0011744493}
+        outSlope: {x: -0.0002516234, y: 0.06505397, z: 0.0006881092, w: 0.0011744493}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 7.630703e-17, y: 1.8620158e-17, z: 0.004155064, w: 0.99999136}
+        inSlope: {x: -0.00004838653, y: 0.011645281, z: 0.000001609327, w: 0.0000028610257}
+        outSlope: {x: -0.00004838653, y: 0.011645281, z: 0.000001609327, w: 0.0000028610257}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_neck_C1_Ogre/joint_Out_neck_C2_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 2.1055173e-11, y: -1.7457232e-11, z: 0.39152756, w: 0.9201664}
+        inSlope: {x: 0.017060643, y: -0.014145317, z: -0.000013589859, w: -0.000005722046}
+        outSlope: {x: 0.017060643, y: -0.014145317, z: -0.000013589859, w: -0.000005722046}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5833333
+        value: {x: 0.025740974, y: -0.021350136, z: 0.3908103, w: 0.9198635}
+        inSlope: {x: -0.06773788, y: 0.056223042, z: 0.0037297017, w: 0.0015757086}
+        outSlope: {x: -0.06773788, y: 0.056223042, z: 0.0037297017, w: 0.0015757086}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 0, y: 0, z: 0.39152756, w: 0.9201664}
+        inSlope: {x: -0.014412742, y: 0.011949888, z: 0.00001001359, w: 0.0000028610257}
+        outSlope: {x: -0.014412742, y: 0.011949888, z: 0.00001001359, w: 0.0000028610257}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_neck_C1_Ogre/joint_Out_neck_C2_Ogre/joint_Out_neck_C3_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.11509098, y: 0.6888151, z: -0.02514626, w: 0.715301}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 0.11509098, y: 0.6888151, z: -0.02514626, w: 0.715301}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_L_root_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.027982274, y: -0.013072726, z: -0.5454074, w: 0.83760184}
+        inSlope: {x: -0.00010536611, y: 0.03036151, z: 0.05305481, w: 0.03490162}
+        outSlope: {x: -0.00010536611, y: 0.03036151, z: 0.05305481, w: 0.03490162}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.37500003
+        value: {x: 0.02607667, y: 0.024448946, z: -0.45502642, w: 0.88976026}
+        inSlope: {x: -0.006949245, y: 0.053424142, z: 0.19474909, w: 0.09880756}
+        outSlope: {x: -0.006949245, y: 0.053424142, z: 0.19474909, w: 0.09880756}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8333333
+        value: {x: 0.027901689, y: -0.0048917076, z: -0.5304568, w: 0.84723854}
+        inSlope: {x: 0.0020801881, y: -0.11053777, z: -0.21477848, w: -0.13476925}
+        outSlope: {x: 0.0020801881, y: -0.11053777, z: -0.21477848, w: -0.13476925}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 0.027982274, y: -0.013072726, z: -0.5454074, w: 0.83760184}
+        inSlope: {x: 0.00008533903, y: -0.025674151, z: -0.044810813, w: -0.029495744}
+        outSlope: {x: 0.00008533903, y: -0.025674151, z: -0.044810813, w: -0.029495744}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_L_root_Ogre/joint_Out_clavicle_L_C1_Ogre/joint_Out_arm_L_root_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.0028174084, y: 0.019727688, z: -0.5434046, w: 0.8392344}
+        inSlope: {x: -0.0018593576, y: 0.0002618283, z: -0.07897425, w: -0.051356792}
+        outSlope: {x: -0.0018593576, y: 0.0002618283, z: -0.07897425, w: -0.051356792}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: {x: 0.00047719857, y: 0.019922145, z: -0.6383543, w: 0.76948476}
+        inSlope: {x: -0.010050806, y: 0.0002522171, z: -0.3885871, w: -0.3216198}
+        outSlope: {x: -0.010050806, y: 0.0002522171, z: -0.3885871, w: -0.3216198}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5416667
+        value: {x: -0.00028343065, y: 0.019925844, z: -0.66725487, w: 0.7445629}
+        inSlope: {x: 0.0055047595, y: 0.000065423555, z: 0.20612034, w: 0.18385011}
+        outSlope: {x: 0.0055047595, y: 0.000065423555, z: 0.20612034, w: 0.18385011}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.875
+        value: {x: 0.0025708703, y: 0.019761331, z: -0.55384094, w: 0.83238405}
+        inSlope: {x: 0.005460779, y: -0.0006974187, z: 0.22959055, w: 0.15353887}
+        outSlope: {x: 0.005460779, y: -0.0006974187, z: 0.22959055, w: 0.15353887}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 0.0028174084, y: 0.019727688, z: -0.5434046, w: 0.8392344}
+        inSlope: {x: 0.0015706919, y: -0.0002216848, z: 0.06673057, w: 0.043365996}
+        outSlope: {x: 0.0015706919, y: -0.0002216848, z: 0.06673057, w: 0.043365996}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_L_root_Ogre/joint_Out_clavicle_L_C1_Ogre/joint_Out_arm_L_root_Ogre/joint_Out_arm_L_C1_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.27760974, y: 0, z: -0, w: 0.96069396}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: -0.27760974, y: 0, z: -0, w: 0.96069396}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_L_root_Ogre/joint_Out_clavicle_L_C1_Ogre/joint_Out_arm_L_root_Ogre/joint_Out_arm_L_C1_Ogre/joint_Out_arm_L_C2_twist_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.22293998, y: -0.01728187, z: -0.37012106, w: 0.9016704}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 0.22293998, y: -0.01728187, z: -0.37012106, w: 0.9016704}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_L_root_Ogre/joint_Out_clavicle_L_C1_Ogre/joint_Out_arm_L_root_Ogre/joint_Out_arm_L_C1_Ogre/joint_Out_arm_L_C2_twist_Ogre/joint_Out_arm_L_C2_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.82715136, y: -0.18946372, z: 0.3071858, w: 0.43076795}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 0.82715136, y: -0.18946372, z: 0.3071858, w: 0.43076795}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_L_root_Ogre/joint_Out_clavicle_L_C1_Ogre/joint_Out_arm_L_root_Ogre/joint_Out_arm_L_C1_Ogre/joint_Out_arm_L_C2_twist_Ogre/joint_Out_arm_L_C2_Ogre/joint_Out_thumb_L_C1_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 2.0835484e-15, y: 7.909534e-16, z: -0.23001917, w: 0.9731861}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 2.0835484e-15, y: 7.909534e-16, z: -0.23001917, w: 0.9731861}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_L_root_Ogre/joint_Out_clavicle_L_C1_Ogre/joint_Out_arm_L_root_Ogre/joint_Out_arm_L_C1_Ogre/joint_Out_arm_L_C2_twist_Ogre/joint_Out_arm_L_C2_Ogre/joint_Out_thumb_L_C1_Ogre/joint_Out_thumb_L_C2_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_L_root_Ogre/joint_Out_clavicle_L_C1_Ogre/joint_Out_arm_L_root_Ogre/joint_Out_arm_L_C1_Ogre/joint_Out_arm_L_C2_twist_Ogre/joint_Out_arm_L_C2_Ogre/joint_Out_thumb_L_C1_Ogre/joint_Out_thumb_L_C2_Ogre/joint_Out_thumb_L_C3_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.11994677, y: -0.11807068, z: 0.0053935573, w: 0.98571956}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: -0.11994677, y: -0.11807068, z: 0.0053935573, w: 0.98571956}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_L_root_Ogre/joint_Out_clavicle_L_C1_Ogre/joint_Out_arm_L_root_Ogre/joint_Out_arm_L_C1_Ogre/joint_Out_arm_L_C2_twist_Ogre/joint_Out_arm_L_C2_Ogre/joint_Out_index_L_C1_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 6.5790023e-16, y: -2.2585175e-16, z: -0.005781079, w: 0.9999833}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 6.5790023e-16, y: -2.2585175e-16, z: -0.005781079, w: 0.9999833}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_L_root_Ogre/joint_Out_clavicle_L_C1_Ogre/joint_Out_arm_L_root_Ogre/joint_Out_arm_L_C1_Ogre/joint_Out_arm_L_C2_twist_Ogre/joint_Out_arm_L_C2_Ogre/joint_Out_index_L_C1_Ogre/joint_Out_index_L_C2_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_L_root_Ogre/joint_Out_clavicle_L_C1_Ogre/joint_Out_arm_L_root_Ogre/joint_Out_arm_L_C1_Ogre/joint_Out_arm_L_C2_twist_Ogre/joint_Out_arm_L_C2_Ogre/joint_Out_index_L_C1_Ogre/joint_Out_index_L_C2_Ogre/joint_Out_index_L_C3_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.085197344, y: -0.057597212, z: 0.0068589593, w: 0.99467427}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: -0.085197344, y: -0.057597212, z: 0.0068589593, w: 0.99467427}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_L_root_Ogre/joint_Out_clavicle_L_C1_Ogre/joint_Out_arm_L_root_Ogre/joint_Out_arm_L_C1_Ogre/joint_Out_arm_L_C2_twist_Ogre/joint_Out_arm_L_C2_Ogre/joint_Out_major_L_C1_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 5.005997e-16, y: -4.5627898e-17, z: 0.019760627, w: 0.99980474}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 5.005997e-16, y: -4.5627898e-17, z: 0.019760627, w: 0.99980474}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_L_root_Ogre/joint_Out_clavicle_L_C1_Ogre/joint_Out_arm_L_root_Ogre/joint_Out_arm_L_C1_Ogre/joint_Out_arm_L_C2_twist_Ogre/joint_Out_arm_L_C2_Ogre/joint_Out_major_L_C1_Ogre/joint_Out_major_L_C2_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_L_root_Ogre/joint_Out_clavicle_L_C1_Ogre/joint_Out_arm_L_root_Ogre/joint_Out_arm_L_C1_Ogre/joint_Out_arm_L_C2_twist_Ogre/joint_Out_arm_L_C2_Ogre/joint_Out_major_L_C1_Ogre/joint_Out_major_L_C2_Ogre/joint_Out_major_L_C3_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.22161353, y: -0.06410482, z: 0.009087026, w: 0.97298276}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: -0.22161353, y: -0.06410482, z: 0.009087026, w: 0.97298276}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_L_root_Ogre/joint_Out_clavicle_L_C1_Ogre/joint_Out_arm_L_root_Ogre/joint_Out_arm_L_C1_Ogre/joint_Out_arm_L_C2_twist_Ogre/joint_Out_arm_L_C2_Ogre/joint_Out_ring_L_C1_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 2.8137376e-16, y: -2.9444784e-16, z: -0.010653335, w: 0.99994326}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 2.8137376e-16, y: -2.9444784e-16, z: -0.010653335, w: 0.99994326}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_L_root_Ogre/joint_Out_clavicle_L_C1_Ogre/joint_Out_arm_L_root_Ogre/joint_Out_arm_L_C1_Ogre/joint_Out_arm_L_C2_twist_Ogre/joint_Out_arm_L_C2_Ogre/joint_Out_ring_L_C1_Ogre/joint_Out_ring_L_C2_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_L_root_Ogre/joint_Out_clavicle_L_C1_Ogre/joint_Out_arm_L_root_Ogre/joint_Out_arm_L_C1_Ogre/joint_Out_arm_L_C2_twist_Ogre/joint_Out_arm_L_C2_Ogre/joint_Out_ring_L_C1_Ogre/joint_Out_ring_L_C2_Ogre/joint_Out_ring_L_C3_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.086039394, y: -0.043303102, z: -0.021126654, w: 0.995126}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: -0.086039394, y: -0.043303102, z: -0.021126654, w: 0.995126}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_L_root_Ogre/joint_Out_clavicle_L_C1_Ogre/joint_Out_arm_L_root_Ogre/joint_Out_arm_L_C1_Ogre/joint_Out_arm_L_C2_twist_Ogre/joint_Out_arm_L_C2_Ogre/joint_Out_little_L_C1_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 3.51089e-16, y: -1.279315e-16, z: 0.03106951, w: 0.99951726}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 3.51089e-16, y: -1.279315e-16, z: 0.03106951, w: 0.99951726}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_L_root_Ogre/joint_Out_clavicle_L_C1_Ogre/joint_Out_arm_L_root_Ogre/joint_Out_arm_L_C1_Ogre/joint_Out_arm_L_C2_twist_Ogre/joint_Out_arm_L_C2_Ogre/joint_Out_little_L_C1_Ogre/joint_Out_little_L_C2_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_L_root_Ogre/joint_Out_clavicle_L_C1_Ogre/joint_Out_arm_L_root_Ogre/joint_Out_arm_L_C1_Ogre/joint_Out_arm_L_C2_twist_Ogre/joint_Out_arm_L_C2_Ogre/joint_Out_little_L_C1_Ogre/joint_Out_little_L_C2_Ogre/joint_Out_little_L_C3_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.11509098, y: -0.6888151, z: -0.02514626, w: 0.715301}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: -0.11509098, y: -0.6888151, z: -0.02514626, w: 0.715301}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_R_root_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.12984456, y: 0.016055657, z: -0.52880025, w: 0.83860177}
+        inSlope: {x: -0.04155457, y: -0.05705622, z: -0.014629841, w: -0.0018281937}
+        outSlope: {x: -0.04155457, y: -0.05705622, z: -0.014629841, w: -0.0018281937}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.33333334
+        value: {x: 0.07141317, y: -0.07312378, z: -0.54115754, w: 0.8346865}
+        inSlope: {x: -0.17479892, y: -0.29552224, z: -0.0095779905, w: -0.01653528}
+        outSlope: {x: -0.17479892, y: -0.29552224, z: -0.0095779905, w: -0.01653528}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.625
+        value: {x: 0.07666755, y: -0.06430098, z: -0.5408096, w: 0.8351721}
+        inSlope: {x: 0.18183884, y: 0.3018378, z: 0.015453093, w: 0.016177647}
+        outSlope: {x: 0.18183884, y: 0.3018378, z: 0.015453093, w: 0.016177647}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 0.12984456, y: 0.016055657, z: -0.52880025, w: 0.83860177}
+        inSlope: {x: 0.035110507, y: 0.04818414, z: 0.01238395, w: 0.0015406624}
+        outSlope: {x: 0.035110507, y: 0.04818414, z: 0.01238395, w: 0.0015406624}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_R_root_Ogre/joint_Out_clavicle_R_C1_Ogre/joint_Out_arm_R_root_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.0010453161, y: -0.019900423, z: -0.69524354, w: 0.718498}
+        inSlope: {x: 0.0009774305, y: 0.00005234778, z: -0.035254955, w: -0.034184933}
+        outSlope: {x: 0.0009774305, y: 0.00005234778, z: -0.035254955, w: -0.034184933}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5
+        value: {x: 0.0027535995, y: -0.019736696, z: -0.7544825, w: 0.65601754}
+        inSlope: {x: -0.0015419201, y: -0.00021274378, z: 0.051330302, w: 0.058852643}
+        outSlope: {x: -0.0015419201, y: -0.00021274378, z: 0.051330302, w: 0.058852643}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 0.0010453161, y: -0.019900423, z: -0.69524354, w: 0.718498}
+        inSlope: {x: -0.00082571607, y: -0.00004407768, z: 0.029788999, w: 0.028874902}
+        outSlope: {x: -0.00082571607, y: -0.00004407768, z: 0.029788999, w: 0.028874902}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_R_root_Ogre/joint_Out_clavicle_R_C1_Ogre/joint_Out_arm_R_root_Ogre/joint_Out_arm_R_C1_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.3692158, y: 0, z: -0, w: 0.9293437}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: -0.3692158, y: 0, z: -0, w: 0.9293437}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_R_root_Ogre/joint_Out_clavicle_R_C1_Ogre/joint_Out_arm_R_root_Ogre/joint_Out_arm_R_C1_Ogre/joint_Out_arm_R_C2_twist_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.75969726, y: -0.08953898, z: -0.03737873, w: 0.64299744}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: -0.75969726, y: -0.08953898, z: -0.03737873, w: 0.64299744}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_R_root_Ogre/joint_Out_clavicle_R_C1_Ogre/joint_Out_arm_R_root_Ogre/joint_Out_arm_R_C1_Ogre/joint_Out_arm_R_C2_twist_Ogre/joint_Out_arm_R_C2_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.82715136, y: -0.18946372, z: -0.3071858, w: -0.43076795}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 0.82715136, y: -0.18946372, z: -0.3071858, w: -0.43076795}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_R_root_Ogre/joint_Out_clavicle_R_C1_Ogre/joint_Out_arm_R_root_Ogre/joint_Out_arm_R_C1_Ogre/joint_Out_arm_R_C2_twist_Ogre/joint_Out_arm_R_C2_Ogre/joint_Out_thumb_R_C1_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -1.8119608e-15, y: -9.692262e-16, z: -0.23001917, w: 0.9731861}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: -1.8119608e-15, y: -9.692262e-16, z: -0.23001917, w: 0.9731861}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_R_root_Ogre/joint_Out_clavicle_R_C1_Ogre/joint_Out_arm_R_root_Ogre/joint_Out_arm_R_C1_Ogre/joint_Out_arm_R_C2_twist_Ogre/joint_Out_arm_R_C2_Ogre/joint_Out_thumb_R_C1_Ogre/joint_Out_thumb_R_C2_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_R_root_Ogre/joint_Out_clavicle_R_C1_Ogre/joint_Out_arm_R_root_Ogre/joint_Out_arm_R_C1_Ogre/joint_Out_arm_R_C2_twist_Ogre/joint_Out_arm_R_C2_Ogre/joint_Out_thumb_R_C1_Ogre/joint_Out_thumb_R_C2_Ogre/joint_Out_thumb_R_C3_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.11994677, y: 0.11807068, z: 0.0053935573, w: 0.98571956}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 0.11994677, y: 0.11807068, z: 0.0053935573, w: 0.98571956}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_R_root_Ogre/joint_Out_clavicle_R_C1_Ogre/joint_Out_arm_R_root_Ogre/joint_Out_arm_R_C1_Ogre/joint_Out_arm_R_C2_twist_Ogre/joint_Out_arm_R_C2_Ogre/joint_Out_index_R_C1_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -7.065519e-16, y: 2.12255e-16, z: -0.005781079, w: 0.9999833}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: -7.065519e-16, y: 2.12255e-16, z: -0.005781079, w: 0.9999833}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_R_root_Ogre/joint_Out_clavicle_R_C1_Ogre/joint_Out_arm_R_root_Ogre/joint_Out_arm_R_C1_Ogre/joint_Out_arm_R_C2_twist_Ogre/joint_Out_arm_R_C2_Ogre/joint_Out_index_R_C1_Ogre/joint_Out_index_R_C2_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_R_root_Ogre/joint_Out_clavicle_R_C1_Ogre/joint_Out_arm_R_root_Ogre/joint_Out_arm_R_C1_Ogre/joint_Out_arm_R_C2_twist_Ogre/joint_Out_arm_R_C2_Ogre/joint_Out_index_R_C1_Ogre/joint_Out_index_R_C2_Ogre/joint_Out_index_R_C3_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.085197344, y: 0.057597212, z: 0.0068589593, w: 0.99467427}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 0.085197344, y: 0.057597212, z: 0.0068589593, w: 0.99467427}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_R_root_Ogre/joint_Out_clavicle_R_C1_Ogre/joint_Out_arm_R_root_Ogre/joint_Out_arm_R_C1_Ogre/joint_Out_arm_R_C2_twist_Ogre/joint_Out_arm_R_C2_Ogre/joint_Out_major_R_C1_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -4.5842604e-16, y: 1.8700441e-17, z: 0.019760627, w: 0.99980474}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: -4.5842604e-16, y: 1.8700441e-17, z: 0.019760627, w: 0.99980474}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_R_root_Ogre/joint_Out_clavicle_R_C1_Ogre/joint_Out_arm_R_root_Ogre/joint_Out_arm_R_C1_Ogre/joint_Out_arm_R_C2_twist_Ogre/joint_Out_arm_R_C2_Ogre/joint_Out_major_R_C1_Ogre/joint_Out_major_R_C2_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_R_root_Ogre/joint_Out_clavicle_R_C1_Ogre/joint_Out_arm_R_root_Ogre/joint_Out_arm_R_C1_Ogre/joint_Out_arm_R_C2_twist_Ogre/joint_Out_arm_R_C2_Ogre/joint_Out_major_R_C1_Ogre/joint_Out_major_R_C2_Ogre/joint_Out_major_R_C3_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.22161353, y: 0.06410482, z: 0.009087026, w: 0.97298276}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 0.22161353, y: 0.06410482, z: 0.009087026, w: 0.97298276}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_R_root_Ogre/joint_Out_clavicle_R_C1_Ogre/joint_Out_arm_R_root_Ogre/joint_Out_arm_R_C1_Ogre/joint_Out_arm_R_C2_twist_Ogre/joint_Out_arm_R_C2_Ogre/joint_Out_ring_R_C1_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -2.0475458e-16, y: 3.2138868e-16, z: -0.010653335, w: 0.99994326}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: -2.0475458e-16, y: 3.2138868e-16, z: -0.010653335, w: 0.99994326}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_R_root_Ogre/joint_Out_clavicle_R_C1_Ogre/joint_Out_arm_R_root_Ogre/joint_Out_arm_R_C1_Ogre/joint_Out_arm_R_C2_twist_Ogre/joint_Out_arm_R_C2_Ogre/joint_Out_ring_R_C1_Ogre/joint_Out_ring_R_C2_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_R_root_Ogre/joint_Out_clavicle_R_C1_Ogre/joint_Out_arm_R_root_Ogre/joint_Out_arm_R_C1_Ogre/joint_Out_arm_R_C2_twist_Ogre/joint_Out_arm_R_C2_Ogre/joint_Out_ring_R_C1_Ogre/joint_Out_ring_R_C2_Ogre/joint_Out_ring_R_C3_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.086039394, y: 0.043303102, z: -0.021126654, w: 0.995126}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 0.086039394, y: 0.043303102, z: -0.021126654, w: 0.995126}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_R_root_Ogre/joint_Out_clavicle_R_C1_Ogre/joint_Out_arm_R_root_Ogre/joint_Out_arm_R_C1_Ogre/joint_Out_arm_R_C2_twist_Ogre/joint_Out_arm_R_C2_Ogre/joint_Out_little_R_C1_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -1.4302266e-16, y: 1.3439914e-16, z: 0.03106951, w: 0.99951726}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: -1.4302266e-16, y: 1.3439914e-16, z: 0.03106951, w: 0.99951726}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_R_root_Ogre/joint_Out_clavicle_R_C1_Ogre/joint_Out_arm_R_root_Ogre/joint_Out_arm_R_C1_Ogre/joint_Out_arm_R_C2_twist_Ogre/joint_Out_arm_R_C2_Ogre/joint_Out_little_R_C1_Ogre/joint_Out_little_R_C2_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_R_root_Ogre/joint_Out_clavicle_R_C1_Ogre/joint_Out_arm_R_root_Ogre/joint_Out_arm_R_C1_Ogre/joint_Out_arm_R_C2_twist_Ogre/joint_Out_arm_R_C2_Ogre/joint_Out_little_R_C1_Ogre/joint_Out_little_R_C2_Ogre/joint_Out_little_R_C3_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.8250502, y: -0.56443983, z: 0.0016175281, w: -0.026406785}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 0.8250502, y: -0.56443983, z: 0.0016175281, w: -0.026406785}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_leg_L_root_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 9.56649e-17, y: -3.0465377e-16, z: 0.7566476, w: 0.65382296}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 9.56649e-17, y: -3.0465377e-16, z: 0.7566476, w: 0.65382296}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_leg_L_root_Ogre/joint_Out_leg_L_C1_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.00064808095, y: 0.008391464, z: -0.7223946, w: 0.6914299}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 0.00064808095, y: 0.008391464, z: -0.7223946, w: 0.6914299}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_leg_L_root_Ogre/joint_Out_leg_L_C1_Ogre/joint_Out_leg_L_C2_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 6.591062e-16, y: 2.6278595e-17, z: -0.086612456, w: 0.9962421}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 6.591062e-16, y: 2.6278595e-17, z: -0.086612456, w: 0.9962421}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_leg_L_root_Ogre/joint_Out_leg_L_C1_Ogre/joint_Out_leg_L_C2_Ogre/joint_Out_leg_L_C3_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.29420364, y: 0.9293889, z: -0.15857841, w: -0.15663134}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: -0.29420364, y: 0.9293889, z: -0.15857841, w: -0.15663134}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_leg_R_root_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -4.8318364e-16, y: -1.3424257e-16, z: 0.82838607, w: 0.5601576}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: -4.8318364e-16, y: -1.3424257e-16, z: 0.82838607, w: 0.5601576}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_leg_R_root_Ogre/joint_Out_leg_R_C1_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.20529172, y: 0.0141901625, z: -0.7173209, w: 0.6656611}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: -0.20529172, y: 0.0141901625, z: -0.7173209, w: 0.6656611}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_leg_R_root_Ogre/joint_Out_leg_R_C1_Ogre/joint_Out_leg_R_C2_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -8.5328024e-16, y: -5.923679e-16, z: -0.75435174, w: 0.6564705}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: -8.5328024e-16, y: -5.923679e-16, z: -0.75435174, w: 0.6564705}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_leg_R_root_Ogre/joint_Out_leg_R_C1_Ogre/joint_Out_leg_R_C2_Ogre/joint_Out_leg_R_C3_Ogre
+  m_CompressedRotationCurves: []
+  m_EulerCurves: []
+  m_PositionCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: -0, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/CTRL_globalSRT_OgreParent/CTRL_globalSRT_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.79842794, y: 0.60357106, z: 6.916573e-17}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 0.79842794, y: 0.60357106, z: 6.916573e-17}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/CTRL_globalSRT_OgreParent/CTRL_globalSRT_Ogre/CTRL_spineGlobal_OgreParent/CTRL_spineGlobal_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: -0, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/CTRL_globalSRT_OgreParent/CTRL_globalSRT_Ogre/CTRL_spineGlobal_OgreParent/CTRL_spineGlobal_Ogre/CTRL_spine_C0_OgreParent/CTRL_spine_C0_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.0020688253, y: 0.8643653, z: 0.58471316}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: -0.0020688253, y: 0.8643653, z: 0.58471316}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.42467684, y: -0.10725546, z: -8.1046276e-17}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: -0.42467684, y: -0.10725546, z: -8.1046276e-17}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.43801162, y: -1.0658141e-16, z: -6.467049e-17}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: -0.43801162, y: -1.0658141e-16, z: -6.467049e-17}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.43818897, y: 0.00010828463, z: -3.4805492e-16}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: -0.43818897, y: 0.00010828463, z: -3.4805492e-16}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.14178446, y: 0.0012634348, z: -5.960465e-10}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: -0.14178446, y: 0.0012634348, z: -5.960465e-10}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_neck_C1_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.13626958, y: 0.012946208, z: -9.436896e-18}
+        inSlope: {x: -0.00000022888183, y: -0.000000994546, z: -0.00018585194}
+        outSlope: {x: -0.00000022888183, y: -0.000000994546, z: -0.00018585194}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.041666668
+        value: {x: -0.1362696, y: 0.012946173, z: -0.00000774383}
+        inSlope: {x: -0.0000013187953, y: -0.0000061716346, z: -0.0003477379}
+        outSlope: {x: 0.0000011771067, y: -0.0000062438407, z: -0.00034773847}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.08333333
+        value: {x: -0.13626961, y: 0.012945699, z: -0.000028978155}
+        inSlope: {x: 0.0000011771067, y: -0.000026815958, z: -0.0006356373}
+        outSlope: {x: -0.0000027356823, y: -0.000026715134, z: -0.000635637}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4166667
+        value: {x: -0.13627177, y: 0.012882008, z: -0.00032659378}
+        inSlope: {x: -0.0000029100665, y: -0.00013469142, z: -0.00035342883}
+        outSlope: {x: -0.0000025612967, y: -0.00013454711, z: -0.00035342376}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8333333
+        value: {x: -0.13626966, y: 0.012944566, z: -0.000051958286}
+        inSlope: {x: 0.0000011117107, y: 0.000049838985, z: 0.00073925644}
+        outSlope: {x: 0.000001689365, y: 0.00004979403, z: 0.000739258}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.875
+        value: {x: -0.1362696, y: 0.01294584, z: -0.000024629271}
+        inSlope: {x: 0.000000599452, y: 0.000019412708, z: 0.00054499117}
+        outSlope: {x: -0.0000005885539, y: 0.000019445437, z: 0.00054499746}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9166666
+        value: {x: -0.1362696, y: 0.012946184, z: -0.000006541951}
+        inSlope: {x: -0.0000005885539, y: 0.000004595351, z: 0.00029555245}
+        outSlope: {x: -0.00000058855306, y: 0.0000044495696, z: 0.0002955499}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: -0.13626958, y: 0.012946208, z: -9.436896e-18}
+        inSlope: {x: -0.00000058855306, y: 0.00000063487437, z: 0.00015700601}
+        outSlope: {x: -0.00000058855306, y: 0.00000063487437, z: 0.00015700601}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_neck_C1_Ogre/joint_Out_neck_C2_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.13579886, y: 0.00026583942, z: 4.690692e-17}
+        inSlope: {x: 0.0000010463169, y: 0.000000070823084, z: 0.000022735823}
+        outSlope: {x: 0.0000010463169, y: 0.000000070823084, z: 0.000022735823}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.041666668
+        value: {x: -0.13579886, y: 0.00026584242, z: 0.00000094732593}
+        inSlope: {x: 0.000003226144, y: 0.0000003922624, z: 0.000042543877}
+        outSlope: {x: 0.0000024850026, y: 0.00000039979807, z: 0.00004254398}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.08333333
+        value: {x: -0.13579868, y: 0.00026587243, z: 0.0000035453236}
+        inSlope: {x: 0.000009024484, y: 0.0000014152057, z: 0.0000777925}
+        outSlope: {x: 0.000009187968, y: 0.0000014120548, z: 0.00007779249}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.375
+        value: {x: -0.13578057, y: 0.0002687287, z: 0.000037653735}
+        inSlope: {x: 0.000076032375, y: 0.000011742733, z: 0.000080923666}
+        outSlope: {x: 0.000075661745, y: 0.000011746067, z: 0.000080923994}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5
+        value: {x: -0.13577777, y: 0.00026915703, z: 0.00004052191}
+        inSlope: {x: -0.000038081555, y: -0.000005790013, z: -0.00003784755}
+        outSlope: {x: -0.000037307767, y: -0.0000057927027, z: -0.00003784756}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8333333
+        value: {x: -0.13579832, y: 0.0002659289, z: 0.0000063579423}
+        inSlope: {x: -0.0000150298965, y: -0.0000026725427, z: -0.00009052965}
+        outSlope: {x: -0.000014975402, y: -0.000002674267, z: -0.00009052976}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.875
+        value: {x: -0.13579874, y: 0.00026586067, z: 0.0000030131446}
+        inSlope: {x: -0.000004076273, y: -0.0000010457841, z: -0.000066691144}
+        outSlope: {x: -0.000007923678, y: -0.0000010472545, z: -0.000066691966}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9166666
+        value: {x: -0.13579886, y: 0.00026584158, z: 0.00000080029355}
+        inSlope: {x: -0.0000024741057, y: -0.00000025536352, z: -0.000036157886}
+        outSlope: {x: -0.0000013187946, y: -0.0000002562147, z: -0.000036157573}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: -0.13579886, y: 0.00026583942, z: 4.690692e-17}
+        inSlope: {x: -0.00000022888172, y: -0.000000051856013, z: -0.00001920695}
+        outSlope: {x: -0.00000022888172, y: -0.000000051856013, z: -0.00001920695}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_neck_C1_Ogre/joint_Out_neck_C2_Ogre/joint_Out_neck_C3_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.099535026, y: -0.019569458, z: 0.08757734}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: -0.099535026, y: -0.019569458, z: 0.08757734}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_L_root_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.09996766, y: -0.010562609, z: -0.07793723}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: -0.09996766, y: -0.010562609, z: -0.07793723}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_L_root_Ogre/joint_Out_clavicle_L_C1_Ogre/joint_Out_arm_L_root_Ogre/joint_Out_arm_L_C1_Ogre/joint_Out_arm_L_C2_twist_Ogre/joint_Out_arm_L_C2_Ogre/joint_Out_thumb_L_C1_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.024852876, y: -7.105427e-16, z: 4.2632563e-16}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: -0.024852876, y: -7.105427e-16, z: 4.2632563e-16}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_L_root_Ogre/joint_Out_clavicle_L_C1_Ogre/joint_Out_arm_L_root_Ogre/joint_Out_arm_L_C1_Ogre/joint_Out_arm_L_C2_twist_Ogre/joint_Out_arm_L_C2_Ogre/joint_Out_thumb_L_C1_Ogre/joint_Out_thumb_L_C2_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.019485353, y: 0, z: 5.684342e-16}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: -0.019485353, y: 0, z: 5.684342e-16}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_L_root_Ogre/joint_Out_clavicle_L_C1_Ogre/joint_Out_arm_L_root_Ogre/joint_Out_arm_L_C1_Ogre/joint_Out_arm_L_C2_twist_Ogre/joint_Out_arm_L_C2_Ogre/joint_Out_thumb_L_C1_Ogre/joint_Out_thumb_L_C2_Ogre/joint_Out_thumb_L_C3_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.17169675, y: -0.000897766, z: -0.038976934}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: -0.17169675, y: -0.000897766, z: -0.038976934}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_L_root_Ogre/joint_Out_clavicle_L_C1_Ogre/joint_Out_arm_L_root_Ogre/joint_Out_arm_L_C1_Ogre/joint_Out_arm_L_C2_twist_Ogre/joint_Out_arm_L_C2_Ogre/joint_Out_index_L_C1_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.030737266, y: 2.842171e-16, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: -0.030737266, y: 2.842171e-16, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_L_root_Ogre/joint_Out_clavicle_L_C1_Ogre/joint_Out_arm_L_root_Ogre/joint_Out_arm_L_C1_Ogre/joint_Out_arm_L_C2_twist_Ogre/joint_Out_arm_L_C2_Ogre/joint_Out_index_L_C1_Ogre/joint_Out_index_L_C2_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.028641228, y: 2.842171e-16, z: -5.684342e-16}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: -0.028641228, y: 2.842171e-16, z: -5.684342e-16}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_L_root_Ogre/joint_Out_clavicle_L_C1_Ogre/joint_Out_arm_L_root_Ogre/joint_Out_arm_L_C1_Ogre/joint_Out_arm_L_C2_twist_Ogre/joint_Out_arm_L_C2_Ogre/joint_Out_index_L_C1_Ogre/joint_Out_index_L_C2_Ogre/joint_Out_index_L_C3_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.17864077, y: 0.0071109845, z: -0.003053217}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: -0.17864077, y: 0.0071109845, z: -0.003053217}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_L_root_Ogre/joint_Out_clavicle_L_C1_Ogre/joint_Out_arm_L_root_Ogre/joint_Out_arm_L_C1_Ogre/joint_Out_arm_L_C2_twist_Ogre/joint_Out_arm_L_C2_Ogre/joint_Out_major_L_C1_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.030485997, y: -1.4210854e-16, z: -2.842171e-16}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: -0.030485997, y: -1.4210854e-16, z: -2.842171e-16}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_L_root_Ogre/joint_Out_clavicle_L_C1_Ogre/joint_Out_arm_L_root_Ogre/joint_Out_arm_L_C1_Ogre/joint_Out_arm_L_C2_twist_Ogre/joint_Out_arm_L_C2_Ogre/joint_Out_major_L_C1_Ogre/joint_Out_major_L_C2_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.028246788, y: 1.4210854e-16, z: -8.5265126e-16}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: -0.028246788, y: 1.4210854e-16, z: -8.5265126e-16}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_L_root_Ogre/joint_Out_clavicle_L_C1_Ogre/joint_Out_arm_L_root_Ogre/joint_Out_arm_L_C1_Ogre/joint_Out_arm_L_C2_twist_Ogre/joint_Out_arm_L_C2_Ogre/joint_Out_major_L_C1_Ogre/joint_Out_major_L_C2_Ogre/joint_Out_major_L_C3_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.18398632, y: 0.020358145, z: 0.033996455}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: -0.18398632, y: 0.020358145, z: 0.033996455}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_L_root_Ogre/joint_Out_clavicle_L_C1_Ogre/joint_Out_arm_L_root_Ogre/joint_Out_arm_L_C1_Ogre/joint_Out_arm_L_C2_twist_Ogre/joint_Out_arm_L_C2_Ogre/joint_Out_ring_L_C1_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.028205656, y: 4.2632563e-16, z: -2.842171e-16}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: -0.028205656, y: 4.2632563e-16, z: -2.842171e-16}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_L_root_Ogre/joint_Out_clavicle_L_C1_Ogre/joint_Out_arm_L_root_Ogre/joint_Out_arm_L_C1_Ogre/joint_Out_arm_L_C2_twist_Ogre/joint_Out_arm_L_C2_Ogre/joint_Out_ring_L_C1_Ogre/joint_Out_ring_L_C2_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.029309036, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: -0.029309036, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_L_root_Ogre/joint_Out_clavicle_L_C1_Ogre/joint_Out_arm_L_root_Ogre/joint_Out_arm_L_C1_Ogre/joint_Out_arm_L_C2_twist_Ogre/joint_Out_arm_L_C2_Ogre/joint_Out_ring_L_C1_Ogre/joint_Out_ring_L_C2_Ogre/joint_Out_ring_L_C3_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.19843987, y: 0.038432825, z: 0.06833732}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: -0.19843987, y: 0.038432825, z: 0.06833732}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_L_root_Ogre/joint_Out_clavicle_L_C1_Ogre/joint_Out_arm_L_root_Ogre/joint_Out_arm_L_C1_Ogre/joint_Out_arm_L_C2_twist_Ogre/joint_Out_arm_L_C2_Ogre/joint_Out_little_L_C1_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.025747133, y: 0, z: -2.842171e-16}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: -0.025747133, y: 0, z: -2.842171e-16}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_L_root_Ogre/joint_Out_clavicle_L_C1_Ogre/joint_Out_arm_L_root_Ogre/joint_Out_arm_L_C1_Ogre/joint_Out_arm_L_C2_twist_Ogre/joint_Out_arm_L_C2_Ogre/joint_Out_little_L_C1_Ogre/joint_Out_little_L_C2_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.021743162, y: 2.1316282e-16, z: 2.842171e-16}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: -0.021743162, y: 2.1316282e-16, z: 2.842171e-16}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_L_root_Ogre/joint_Out_clavicle_L_C1_Ogre/joint_Out_arm_L_root_Ogre/joint_Out_arm_L_C1_Ogre/joint_Out_arm_L_C2_twist_Ogre/joint_Out_arm_L_C2_Ogre/joint_Out_little_L_C1_Ogre/joint_Out_little_L_C2_Ogre/joint_Out_little_L_C3_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.099535026, y: -0.019569458, z: -0.09171499}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: -0.099535026, y: -0.019569458, z: -0.09171499}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_R_root_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.09996766, y: -0.010562609, z: 0.07793723}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: -0.09996766, y: -0.010562609, z: 0.07793723}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_R_root_Ogre/joint_Out_clavicle_R_C1_Ogre/joint_Out_arm_R_root_Ogre/joint_Out_arm_R_C1_Ogre/joint_Out_arm_R_C2_twist_Ogre/joint_Out_arm_R_C2_Ogre/joint_Out_thumb_R_C1_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.024852876, y: 2.842171e-16, z: -4.973799e-16}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: -0.024852876, y: 2.842171e-16, z: -4.973799e-16}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_R_root_Ogre/joint_Out_clavicle_R_C1_Ogre/joint_Out_arm_R_root_Ogre/joint_Out_arm_R_C1_Ogre/joint_Out_arm_R_C2_twist_Ogre/joint_Out_arm_R_C2_Ogre/joint_Out_thumb_R_C1_Ogre/joint_Out_thumb_R_C2_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.019485353, y: -2.842171e-16, z: -7.105427e-17}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: -0.019485353, y: -2.842171e-16, z: -7.105427e-17}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_R_root_Ogre/joint_Out_clavicle_R_C1_Ogre/joint_Out_arm_R_root_Ogre/joint_Out_arm_R_C1_Ogre/joint_Out_arm_R_C2_twist_Ogre/joint_Out_arm_R_C2_Ogre/joint_Out_thumb_R_C1_Ogre/joint_Out_thumb_R_C2_Ogre/joint_Out_thumb_R_C3_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.17169675, y: -0.000897766, z: 0.038976934}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: -0.17169675, y: -0.000897766, z: 0.038976934}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_R_root_Ogre/joint_Out_clavicle_R_C1_Ogre/joint_Out_arm_R_root_Ogre/joint_Out_arm_R_C1_Ogre/joint_Out_arm_R_C2_twist_Ogre/joint_Out_arm_R_C2_Ogre/joint_Out_index_R_C1_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.030737266, y: 0, z: -5.684342e-16}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: -0.030737266, y: 0, z: -5.684342e-16}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_R_root_Ogre/joint_Out_clavicle_R_C1_Ogre/joint_Out_arm_R_root_Ogre/joint_Out_arm_R_C1_Ogre/joint_Out_arm_R_C2_twist_Ogre/joint_Out_arm_R_C2_Ogre/joint_Out_index_R_C1_Ogre/joint_Out_index_R_C2_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.028641228, y: -2.842171e-16, z: 5.684342e-16}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: -0.028641228, y: -2.842171e-16, z: 5.684342e-16}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_R_root_Ogre/joint_Out_clavicle_R_C1_Ogre/joint_Out_arm_R_root_Ogre/joint_Out_arm_R_C1_Ogre/joint_Out_arm_R_C2_twist_Ogre/joint_Out_arm_R_C2_Ogre/joint_Out_index_R_C1_Ogre/joint_Out_index_R_C2_Ogre/joint_Out_index_R_C3_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.17864077, y: 0.0071109845, z: 0.003053217}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: -0.17864077, y: 0.0071109845, z: 0.003053217}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_R_root_Ogre/joint_Out_clavicle_R_C1_Ogre/joint_Out_arm_R_root_Ogre/joint_Out_arm_R_C1_Ogre/joint_Out_arm_R_C2_twist_Ogre/joint_Out_arm_R_C2_Ogre/joint_Out_major_R_C1_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.030485997, y: 2.842171e-16, z: -8.5265126e-16}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: -0.030485997, y: 2.842171e-16, z: -8.5265126e-16}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_R_root_Ogre/joint_Out_clavicle_R_C1_Ogre/joint_Out_arm_R_root_Ogre/joint_Out_arm_R_C1_Ogre/joint_Out_arm_R_C2_twist_Ogre/joint_Out_arm_R_C2_Ogre/joint_Out_major_R_C1_Ogre/joint_Out_major_R_C2_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.028246788, y: 5.684342e-16, z: 5.684342e-16}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: -0.028246788, y: 5.684342e-16, z: 5.684342e-16}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_R_root_Ogre/joint_Out_clavicle_R_C1_Ogre/joint_Out_arm_R_root_Ogre/joint_Out_arm_R_C1_Ogre/joint_Out_arm_R_C2_twist_Ogre/joint_Out_arm_R_C2_Ogre/joint_Out_major_R_C1_Ogre/joint_Out_major_R_C2_Ogre/joint_Out_major_R_C3_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.18398632, y: 0.020358145, z: -0.033996455}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: -0.18398632, y: 0.020358145, z: -0.033996455}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_R_root_Ogre/joint_Out_clavicle_R_C1_Ogre/joint_Out_arm_R_root_Ogre/joint_Out_arm_R_C1_Ogre/joint_Out_arm_R_C2_twist_Ogre/joint_Out_arm_R_C2_Ogre/joint_Out_ring_R_C1_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.028205656, y: -8.5265126e-16, z: -1.1368684e-15}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: -0.028205656, y: -8.5265126e-16, z: -1.1368684e-15}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_R_root_Ogre/joint_Out_clavicle_R_C1_Ogre/joint_Out_arm_R_root_Ogre/joint_Out_arm_R_C1_Ogre/joint_Out_arm_R_C2_twist_Ogre/joint_Out_arm_R_C2_Ogre/joint_Out_ring_R_C1_Ogre/joint_Out_ring_R_C2_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.029309036, y: 5.684342e-16, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: -0.029309036, y: 5.684342e-16, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_R_root_Ogre/joint_Out_clavicle_R_C1_Ogre/joint_Out_arm_R_root_Ogre/joint_Out_arm_R_C1_Ogre/joint_Out_arm_R_C2_twist_Ogre/joint_Out_arm_R_C2_Ogre/joint_Out_ring_R_C1_Ogre/joint_Out_ring_R_C2_Ogre/joint_Out_ring_R_C3_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.19843987, y: 0.038432825, z: -0.06833732}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: -0.19843987, y: 0.038432825, z: -0.06833732}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_R_root_Ogre/joint_Out_clavicle_R_C1_Ogre/joint_Out_arm_R_root_Ogre/joint_Out_arm_R_C1_Ogre/joint_Out_arm_R_C2_twist_Ogre/joint_Out_arm_R_C2_Ogre/joint_Out_little_R_C1_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.025747133, y: 0, z: -8.5265126e-16}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: -0.025747133, y: 0, z: -8.5265126e-16}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_R_root_Ogre/joint_Out_clavicle_R_C1_Ogre/joint_Out_arm_R_root_Ogre/joint_Out_arm_R_C1_Ogre/joint_Out_arm_R_C2_twist_Ogre/joint_Out_arm_R_C2_Ogre/joint_Out_little_R_C1_Ogre/joint_Out_little_R_C2_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.021743162, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: -0.021743162, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_R_root_Ogre/joint_Out_clavicle_R_C1_Ogre/joint_Out_arm_R_root_Ogre/joint_Out_arm_R_C1_Ogre/joint_Out_arm_R_C2_twist_Ogre/joint_Out_arm_R_C2_Ogre/joint_Out_little_R_C1_Ogre/joint_Out_little_R_C2_Ogre/joint_Out_little_R_C3_Ogre
+  m_ScaleCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/CTRL_globalSRT_OgreParent/CTRL_globalSRT_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/CTRL_globalSRT_OgreParent/CTRL_globalSRT_Ogre/CTRL_spineGlobal_OgreParent/CTRL_spineGlobal_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/CTRL_globalSRT_OgreParent/CTRL_globalSRT_Ogre/CTRL_spineGlobal_OgreParent/CTRL_spineGlobal_Ogre/CTRL_spine_C0_OgreParent/CTRL_spine_C0_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_neck_C1_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_neck_C1_Ogre/joint_Out_neck_C2_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_neck_C1_Ogre/joint_Out_neck_C2_Ogre/joint_Out_neck_C3_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_L_root_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_L_root_Ogre/joint_Out_clavicle_L_C1_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_L_root_Ogre/joint_Out_clavicle_L_C1_Ogre/joint_Out_arm_L_root_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_L_root_Ogre/joint_Out_clavicle_L_C1_Ogre/joint_Out_arm_L_root_Ogre/joint_Out_arm_L_C1_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_L_root_Ogre/joint_Out_clavicle_L_C1_Ogre/joint_Out_arm_L_root_Ogre/joint_Out_arm_L_C1_Ogre/joint_Out_arm_L_C2_twist_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_L_root_Ogre/joint_Out_clavicle_L_C1_Ogre/joint_Out_arm_L_root_Ogre/joint_Out_arm_L_C1_Ogre/joint_Out_arm_L_C2_twist_Ogre/joint_Out_arm_L_C2_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_L_root_Ogre/joint_Out_clavicle_L_C1_Ogre/joint_Out_arm_L_root_Ogre/joint_Out_arm_L_C1_Ogre/joint_Out_arm_L_C2_twist_Ogre/joint_Out_arm_L_C2_Ogre/joint_Out_thumb_L_C1_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_L_root_Ogre/joint_Out_clavicle_L_C1_Ogre/joint_Out_arm_L_root_Ogre/joint_Out_arm_L_C1_Ogre/joint_Out_arm_L_C2_twist_Ogre/joint_Out_arm_L_C2_Ogre/joint_Out_thumb_L_C1_Ogre/joint_Out_thumb_L_C2_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_L_root_Ogre/joint_Out_clavicle_L_C1_Ogre/joint_Out_arm_L_root_Ogre/joint_Out_arm_L_C1_Ogre/joint_Out_arm_L_C2_twist_Ogre/joint_Out_arm_L_C2_Ogre/joint_Out_thumb_L_C1_Ogre/joint_Out_thumb_L_C2_Ogre/joint_Out_thumb_L_C3_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_L_root_Ogre/joint_Out_clavicle_L_C1_Ogre/joint_Out_arm_L_root_Ogre/joint_Out_arm_L_C1_Ogre/joint_Out_arm_L_C2_twist_Ogre/joint_Out_arm_L_C2_Ogre/joint_Out_index_L_C1_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_L_root_Ogre/joint_Out_clavicle_L_C1_Ogre/joint_Out_arm_L_root_Ogre/joint_Out_arm_L_C1_Ogre/joint_Out_arm_L_C2_twist_Ogre/joint_Out_arm_L_C2_Ogre/joint_Out_index_L_C1_Ogre/joint_Out_index_L_C2_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_L_root_Ogre/joint_Out_clavicle_L_C1_Ogre/joint_Out_arm_L_root_Ogre/joint_Out_arm_L_C1_Ogre/joint_Out_arm_L_C2_twist_Ogre/joint_Out_arm_L_C2_Ogre/joint_Out_index_L_C1_Ogre/joint_Out_index_L_C2_Ogre/joint_Out_index_L_C3_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_L_root_Ogre/joint_Out_clavicle_L_C1_Ogre/joint_Out_arm_L_root_Ogre/joint_Out_arm_L_C1_Ogre/joint_Out_arm_L_C2_twist_Ogre/joint_Out_arm_L_C2_Ogre/joint_Out_major_L_C1_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_L_root_Ogre/joint_Out_clavicle_L_C1_Ogre/joint_Out_arm_L_root_Ogre/joint_Out_arm_L_C1_Ogre/joint_Out_arm_L_C2_twist_Ogre/joint_Out_arm_L_C2_Ogre/joint_Out_major_L_C1_Ogre/joint_Out_major_L_C2_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_L_root_Ogre/joint_Out_clavicle_L_C1_Ogre/joint_Out_arm_L_root_Ogre/joint_Out_arm_L_C1_Ogre/joint_Out_arm_L_C2_twist_Ogre/joint_Out_arm_L_C2_Ogre/joint_Out_major_L_C1_Ogre/joint_Out_major_L_C2_Ogre/joint_Out_major_L_C3_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_L_root_Ogre/joint_Out_clavicle_L_C1_Ogre/joint_Out_arm_L_root_Ogre/joint_Out_arm_L_C1_Ogre/joint_Out_arm_L_C2_twist_Ogre/joint_Out_arm_L_C2_Ogre/joint_Out_ring_L_C1_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_L_root_Ogre/joint_Out_clavicle_L_C1_Ogre/joint_Out_arm_L_root_Ogre/joint_Out_arm_L_C1_Ogre/joint_Out_arm_L_C2_twist_Ogre/joint_Out_arm_L_C2_Ogre/joint_Out_ring_L_C1_Ogre/joint_Out_ring_L_C2_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_L_root_Ogre/joint_Out_clavicle_L_C1_Ogre/joint_Out_arm_L_root_Ogre/joint_Out_arm_L_C1_Ogre/joint_Out_arm_L_C2_twist_Ogre/joint_Out_arm_L_C2_Ogre/joint_Out_ring_L_C1_Ogre/joint_Out_ring_L_C2_Ogre/joint_Out_ring_L_C3_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_L_root_Ogre/joint_Out_clavicle_L_C1_Ogre/joint_Out_arm_L_root_Ogre/joint_Out_arm_L_C1_Ogre/joint_Out_arm_L_C2_twist_Ogre/joint_Out_arm_L_C2_Ogre/joint_Out_little_L_C1_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_L_root_Ogre/joint_Out_clavicle_L_C1_Ogre/joint_Out_arm_L_root_Ogre/joint_Out_arm_L_C1_Ogre/joint_Out_arm_L_C2_twist_Ogre/joint_Out_arm_L_C2_Ogre/joint_Out_little_L_C1_Ogre/joint_Out_little_L_C2_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_L_root_Ogre/joint_Out_clavicle_L_C1_Ogre/joint_Out_arm_L_root_Ogre/joint_Out_arm_L_C1_Ogre/joint_Out_arm_L_C2_twist_Ogre/joint_Out_arm_L_C2_Ogre/joint_Out_little_L_C1_Ogre/joint_Out_little_L_C2_Ogre/joint_Out_little_L_C3_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_R_root_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_R_root_Ogre/joint_Out_clavicle_R_C1_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_R_root_Ogre/joint_Out_clavicle_R_C1_Ogre/joint_Out_arm_R_root_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_R_root_Ogre/joint_Out_clavicle_R_C1_Ogre/joint_Out_arm_R_root_Ogre/joint_Out_arm_R_C1_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_R_root_Ogre/joint_Out_clavicle_R_C1_Ogre/joint_Out_arm_R_root_Ogre/joint_Out_arm_R_C1_Ogre/joint_Out_arm_R_C2_twist_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_R_root_Ogre/joint_Out_clavicle_R_C1_Ogre/joint_Out_arm_R_root_Ogre/joint_Out_arm_R_C1_Ogre/joint_Out_arm_R_C2_twist_Ogre/joint_Out_arm_R_C2_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_R_root_Ogre/joint_Out_clavicle_R_C1_Ogre/joint_Out_arm_R_root_Ogre/joint_Out_arm_R_C1_Ogre/joint_Out_arm_R_C2_twist_Ogre/joint_Out_arm_R_C2_Ogre/joint_Out_thumb_R_C1_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_R_root_Ogre/joint_Out_clavicle_R_C1_Ogre/joint_Out_arm_R_root_Ogre/joint_Out_arm_R_C1_Ogre/joint_Out_arm_R_C2_twist_Ogre/joint_Out_arm_R_C2_Ogre/joint_Out_thumb_R_C1_Ogre/joint_Out_thumb_R_C2_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_R_root_Ogre/joint_Out_clavicle_R_C1_Ogre/joint_Out_arm_R_root_Ogre/joint_Out_arm_R_C1_Ogre/joint_Out_arm_R_C2_twist_Ogre/joint_Out_arm_R_C2_Ogre/joint_Out_thumb_R_C1_Ogre/joint_Out_thumb_R_C2_Ogre/joint_Out_thumb_R_C3_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_R_root_Ogre/joint_Out_clavicle_R_C1_Ogre/joint_Out_arm_R_root_Ogre/joint_Out_arm_R_C1_Ogre/joint_Out_arm_R_C2_twist_Ogre/joint_Out_arm_R_C2_Ogre/joint_Out_index_R_C1_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_R_root_Ogre/joint_Out_clavicle_R_C1_Ogre/joint_Out_arm_R_root_Ogre/joint_Out_arm_R_C1_Ogre/joint_Out_arm_R_C2_twist_Ogre/joint_Out_arm_R_C2_Ogre/joint_Out_index_R_C1_Ogre/joint_Out_index_R_C2_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_R_root_Ogre/joint_Out_clavicle_R_C1_Ogre/joint_Out_arm_R_root_Ogre/joint_Out_arm_R_C1_Ogre/joint_Out_arm_R_C2_twist_Ogre/joint_Out_arm_R_C2_Ogre/joint_Out_index_R_C1_Ogre/joint_Out_index_R_C2_Ogre/joint_Out_index_R_C3_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_R_root_Ogre/joint_Out_clavicle_R_C1_Ogre/joint_Out_arm_R_root_Ogre/joint_Out_arm_R_C1_Ogre/joint_Out_arm_R_C2_twist_Ogre/joint_Out_arm_R_C2_Ogre/joint_Out_major_R_C1_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_R_root_Ogre/joint_Out_clavicle_R_C1_Ogre/joint_Out_arm_R_root_Ogre/joint_Out_arm_R_C1_Ogre/joint_Out_arm_R_C2_twist_Ogre/joint_Out_arm_R_C2_Ogre/joint_Out_major_R_C1_Ogre/joint_Out_major_R_C2_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_R_root_Ogre/joint_Out_clavicle_R_C1_Ogre/joint_Out_arm_R_root_Ogre/joint_Out_arm_R_C1_Ogre/joint_Out_arm_R_C2_twist_Ogre/joint_Out_arm_R_C2_Ogre/joint_Out_major_R_C1_Ogre/joint_Out_major_R_C2_Ogre/joint_Out_major_R_C3_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_R_root_Ogre/joint_Out_clavicle_R_C1_Ogre/joint_Out_arm_R_root_Ogre/joint_Out_arm_R_C1_Ogre/joint_Out_arm_R_C2_twist_Ogre/joint_Out_arm_R_C2_Ogre/joint_Out_ring_R_C1_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_R_root_Ogre/joint_Out_clavicle_R_C1_Ogre/joint_Out_arm_R_root_Ogre/joint_Out_arm_R_C1_Ogre/joint_Out_arm_R_C2_twist_Ogre/joint_Out_arm_R_C2_Ogre/joint_Out_ring_R_C1_Ogre/joint_Out_ring_R_C2_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_R_root_Ogre/joint_Out_clavicle_R_C1_Ogre/joint_Out_arm_R_root_Ogre/joint_Out_arm_R_C1_Ogre/joint_Out_arm_R_C2_twist_Ogre/joint_Out_arm_R_C2_Ogre/joint_Out_ring_R_C1_Ogre/joint_Out_ring_R_C2_Ogre/joint_Out_ring_R_C3_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_R_root_Ogre/joint_Out_clavicle_R_C1_Ogre/joint_Out_arm_R_root_Ogre/joint_Out_arm_R_C1_Ogre/joint_Out_arm_R_C2_twist_Ogre/joint_Out_arm_R_C2_Ogre/joint_Out_little_R_C1_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_R_root_Ogre/joint_Out_clavicle_R_C1_Ogre/joint_Out_arm_R_root_Ogre/joint_Out_arm_R_C1_Ogre/joint_Out_arm_R_C2_twist_Ogre/joint_Out_arm_R_C2_Ogre/joint_Out_little_R_C1_Ogre/joint_Out_little_R_C2_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_spine_C2_Ogre/joint_Out_spine_C3_Ogre/joint_Out_spine_C4_Ogre/joint_Out_clavicle_R_root_Ogre/joint_Out_clavicle_R_C1_Ogre/joint_Out_arm_R_root_Ogre/joint_Out_arm_R_C1_Ogre/joint_Out_arm_R_C2_twist_Ogre/joint_Out_arm_R_C2_Ogre/joint_Out_little_R_C1_Ogre/joint_Out_little_R_C2_Ogre/joint_Out_little_R_C3_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_leg_L_root_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_leg_L_root_Ogre/joint_Out_leg_L_C1_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_leg_L_root_Ogre/joint_Out_leg_L_C1_Ogre/joint_Out_leg_L_C2_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_leg_L_root_Ogre/joint_Out_leg_L_C1_Ogre/joint_Out_leg_L_C2_Ogre/joint_Out_leg_L_C3_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_leg_L_root_Ogre/joint_Out_leg_L_C1_Ogre/joint_Out_leg_L_C2_Ogre/joint_Out_leg_L_C3_Ogre/joint_Out_leg_L_C4_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_leg_R_root_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_leg_R_root_Ogre/joint_Out_leg_R_C1_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_leg_R_root_Ogre/joint_Out_leg_R_C1_Ogre/joint_Out_leg_R_C2_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_leg_R_root_Ogre/joint_Out_leg_R_C1_Ogre/joint_Out_leg_R_C2_Ogre/joint_Out_leg_R_C3_Ogre
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Group_RIG_Ogre/Group_deformers_Ogre/joint_Out_spine_C1_Ogre/joint_Out_leg_R_root_Ogre/joint_Out_leg_R_C1_Ogre/joint_Out_leg_R_C2_Ogre/joint_Out_leg_R_C3_Ogre/joint_Out_leg_R_C4_Ogre
+  m_FloatCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_Enabled
+    path: Group_RIG_Ogre/CTRL_globalSRT_OgreParent/CTRL_globalSRT_Ogre
+    classID: 25
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_Enabled
+    path: Group_RIG_Ogre/CTRL_globalSRT_OgreParent/CTRL_globalSRT_Ogre/CTRL_spineGlobal_OgreParent
+    classID: 25
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_Enabled
+    path: Group_RIG_Ogre/CTRL_globalSRT_OgreParent/CTRL_globalSRT_Ogre/CTRL_spineGlobal_OgreParent/CTRL_spineGlobal_Ogre
+    classID: 25
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_Enabled
+    path: Group_RIG_Ogre/CTRL_globalSRT_OgreParent/CTRL_globalSRT_Ogre/CTRL_spineGlobal_OgreParent/CTRL_spineGlobal_Ogre/CTRL_spine_C0_OgreParent
+    classID: 25
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583333
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_Enabled
+    path: Group_RIG_Ogre/CTRL_globalSRT_OgreParent/CTRL_globalSRT_Ogre/CTRL_spineGlobal_OgreParent/CTRL_spineGlobal_Ogre/CTRL_spine_C0_OgreParent/CTRL_spine_C0_Ogre
+    classID: 25
+    script: {fileID: 0}
+  m_PPtrCurves: []
+  m_SampleRate: 24
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    - serializedVersion: 2
+      path: 3575110581
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 832880297
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3575110581
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 832880297
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3132571744
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1046576515
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 121208542
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3634519200
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2087092655
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1051846006
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1709345319
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 892635065
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2933737688
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3223108764
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3174795912
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2195758827
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 501431177
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 4142796846
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2175222911
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3740881692
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2508464949
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2428758866
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2125736763
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3138539253
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1007505426
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3368870209
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 183400303
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 857968597
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 589281998
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3013432371
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3448352197
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 64197225
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3781416004
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3470821728
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1445722314
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 498219532
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2911550075
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1196382183
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3187622443
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2199705531
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3951160487
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 193431633
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3515238199
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2991869398
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3901716715
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2141462149
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1545011888
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2042758644
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2087092655
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1051846006
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1709345319
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 892635065
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2933737688
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3223108764
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3174795912
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2195758827
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 501431177
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2133090206
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3548136230
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 4142796846
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2175222911
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3740881692
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2508464949
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2428758866
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2125736763
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3138539253
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1007505426
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3368870209
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 183400303
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 857968597
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 589281998
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3013432371
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3448352197
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 64197225
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3781416004
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1339129379
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3953980700
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3470821728
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1445722314
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 498219532
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2911550075
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1196382183
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3187622443
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2199705531
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3951160487
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 193431633
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3515238199
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2991869398
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3901716715
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2141462149
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1545011888
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2042758644
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2341280385
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3958266259
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2693123183
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3273928952
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1997403468
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3330563917
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3047738613
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 575669559
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2087092655
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1051846006
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1709345319
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 892635065
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2933737688
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3223108764
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3174795912
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2195758827
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3575110581
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 832880297
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 501431177
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1753449928
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3132571744
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1046576515
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2133090206
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3548136230
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 4142796846
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2175222911
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3740881692
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2508464949
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2428758866
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2125736763
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3138539253
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1007505426
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3368870209
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 183400303
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 857968597
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 589281998
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3013432371
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3448352197
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 64197225
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3781416004
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3614244666
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 121208542
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3634519200
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1339129379
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3953980700
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3470821728
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1445722314
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 498219532
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2911550075
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1196382183
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3187622443
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2199705531
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3951160487
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 193431633
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3515238199
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2991869398
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3901716715
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2141462149
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1545011888
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2042758644
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2341280385
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3958266259
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2693123183
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3273928952
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 413836119
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1997403468
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3330563917
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3047738613
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 575669559
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 363323744
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2087092655
+      attribute: 3305885265
+      script: {fileID: 0}
+      typeID: 25
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 617950693
+      attribute: 3305885265
+      script: {fileID: 0}
+      typeID: 25
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1051846006
+      attribute: 3305885265
+      script: {fileID: 0}
+      typeID: 25
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3607971801
+      attribute: 3305885265
+      script: {fileID: 0}
+      typeID: 25
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1709345319
+      attribute: 3305885265
+      script: {fileID: 0}
+      typeID: 25
+      customType: 0
+      isPPtrCurve: 0
+    pptrCurveMapping: []
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_AdditiveReferencePoseClip: {fileID: 0}
+    m_AdditiveReferencePoseTime: 0
+    m_StartTime: 0
+    m_StopTime: 0.9583333
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_HasAdditiveReferencePose: 0
+    m_LoopTime: 1
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves: []
+  m_EulerEditorCurves: []
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_GenerateMotionCurves: 0
+  m_Events: []

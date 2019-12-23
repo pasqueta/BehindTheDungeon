@@ -1,0 +1,1035 @@
+fileFormatVersion: 2
+guid: 0b25adad091313247aaaa27007ebb5b5
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: CTRL_globalSRT_Ogre
+    100002: CTRL_globalSRT_OgreParent
+    100004: CTRL_spine_C0_Ogre
+    100006: CTRL_spine_C0_OgreParent
+    100008: CTRL_spineGlobal_Ogre
+    100010: CTRL_spineGlobal_OgreParent
+    100012: enemies_GRP
+    100014: enemies_msh_GRP
+    100016: Group_deformers_Ogre
+    100018: Group_RIG_Ogre
+    100020: joint_Out_arm_L_C1_Ogre
+    100022: joint_Out_arm_L_C2_Ogre
+    100024: joint_Out_arm_L_C2_twist_Ogre
+    100026: joint_Out_arm_L_root_Ogre
+    100028: joint_Out_arm_R_C1_Ogre
+    100030: joint_Out_arm_R_C2_Ogre
+    100032: joint_Out_arm_R_C2_twist_Ogre
+    100034: joint_Out_arm_R_root_Ogre
+    100036: joint_Out_clavicle_L_C1_Ogre
+    100038: joint_Out_clavicle_L_root_Ogre
+    100040: joint_Out_clavicle_R_C1_Ogre
+    100042: joint_Out_clavicle_R_root_Ogre
+    100044: joint_Out_index_L_C1_Ogre
+    100046: joint_Out_index_L_C2_Ogre
+    100048: joint_Out_index_L_C3_Ogre
+    100050: joint_Out_index_R_C1_Ogre
+    100052: joint_Out_index_R_C2_Ogre
+    100054: joint_Out_index_R_C3_Ogre
+    100056: joint_Out_leg_L_C1_Ogre
+    100058: joint_Out_leg_L_C2_Ogre
+    100060: joint_Out_leg_L_C3_Ogre
+    100062: joint_Out_leg_L_C4_Ogre
+    100064: joint_Out_leg_L_root_Ogre
+    100066: joint_Out_leg_R_C1_Ogre
+    100068: joint_Out_leg_R_C2_Ogre
+    100070: joint_Out_leg_R_C3_Ogre
+    100072: joint_Out_leg_R_C4_Ogre
+    100074: joint_Out_leg_R_root_Ogre
+    100076: joint_Out_little_L_C1_Ogre
+    100078: joint_Out_little_L_C2_Ogre
+    100080: joint_Out_little_L_C3_Ogre
+    100082: joint_Out_little_R_C1_Ogre
+    100084: joint_Out_little_R_C2_Ogre
+    100086: joint_Out_little_R_C3_Ogre
+    100088: joint_Out_major_L_C1_Ogre
+    100090: joint_Out_major_L_C2_Ogre
+    100092: joint_Out_major_L_C3_Ogre
+    100094: joint_Out_major_R_C1_Ogre
+    100096: joint_Out_major_R_C2_Ogre
+    100098: joint_Out_major_R_C3_Ogre
+    100100: joint_Out_neck_C1_Ogre
+    100102: joint_Out_neck_C2_Ogre
+    100104: joint_Out_neck_C3_Ogre
+    100106: joint_Out_ring_L_C1_Ogre
+    100108: joint_Out_ring_L_C2_Ogre
+    100110: joint_Out_ring_L_C3_Ogre
+    100112: joint_Out_ring_R_C1_Ogre
+    100114: joint_Out_ring_R_C2_Ogre
+    100116: joint_Out_ring_R_C3_Ogre
+    100118: joint_Out_spine_C1_Ogre
+    100120: joint_Out_spine_C2_Ogre
+    100122: joint_Out_spine_C3_Ogre
+    100124: joint_Out_spine_C4_Ogre
+    100126: joint_Out_thumb_L_C1_Ogre
+    100128: joint_Out_thumb_L_C2_Ogre
+    100130: joint_Out_thumb_L_C3_Ogre
+    100132: joint_Out_thumb_R_C1_Ogre
+    100134: joint_Out_thumb_R_C2_Ogre
+    100136: joint_Out_thumb_R_C3_Ogre
+    100138: steal_msh
+    100140: //RootNode
+    400000: CTRL_globalSRT_Ogre
+    400002: CTRL_globalSRT_OgreParent
+    400004: CTRL_spine_C0_Ogre
+    400006: CTRL_spine_C0_OgreParent
+    400008: CTRL_spineGlobal_Ogre
+    400010: CTRL_spineGlobal_OgreParent
+    400012: enemies_GRP
+    400014: enemies_msh_GRP
+    400016: Group_deformers_Ogre
+    400018: Group_RIG_Ogre
+    400020: joint_Out_arm_L_C1_Ogre
+    400022: joint_Out_arm_L_C2_Ogre
+    400024: joint_Out_arm_L_C2_twist_Ogre
+    400026: joint_Out_arm_L_root_Ogre
+    400028: joint_Out_arm_R_C1_Ogre
+    400030: joint_Out_arm_R_C2_Ogre
+    400032: joint_Out_arm_R_C2_twist_Ogre
+    400034: joint_Out_arm_R_root_Ogre
+    400036: joint_Out_clavicle_L_C1_Ogre
+    400038: joint_Out_clavicle_L_root_Ogre
+    400040: joint_Out_clavicle_R_C1_Ogre
+    400042: joint_Out_clavicle_R_root_Ogre
+    400044: joint_Out_index_L_C1_Ogre
+    400046: joint_Out_index_L_C2_Ogre
+    400048: joint_Out_index_L_C3_Ogre
+    400050: joint_Out_index_R_C1_Ogre
+    400052: joint_Out_index_R_C2_Ogre
+    400054: joint_Out_index_R_C3_Ogre
+    400056: joint_Out_leg_L_C1_Ogre
+    400058: joint_Out_leg_L_C2_Ogre
+    400060: joint_Out_leg_L_C3_Ogre
+    400062: joint_Out_leg_L_C4_Ogre
+    400064: joint_Out_leg_L_root_Ogre
+    400066: joint_Out_leg_R_C1_Ogre
+    400068: joint_Out_leg_R_C2_Ogre
+    400070: joint_Out_leg_R_C3_Ogre
+    400072: joint_Out_leg_R_C4_Ogre
+    400074: joint_Out_leg_R_root_Ogre
+    400076: joint_Out_little_L_C1_Ogre
+    400078: joint_Out_little_L_C2_Ogre
+    400080: joint_Out_little_L_C3_Ogre
+    400082: joint_Out_little_R_C1_Ogre
+    400084: joint_Out_little_R_C2_Ogre
+    400086: joint_Out_little_R_C3_Ogre
+    400088: joint_Out_major_L_C1_Ogre
+    400090: joint_Out_major_L_C2_Ogre
+    400092: joint_Out_major_L_C3_Ogre
+    400094: joint_Out_major_R_C1_Ogre
+    400096: joint_Out_major_R_C2_Ogre
+    400098: joint_Out_major_R_C3_Ogre
+    400100: joint_Out_neck_C1_Ogre
+    400102: joint_Out_neck_C2_Ogre
+    400104: joint_Out_neck_C3_Ogre
+    400106: joint_Out_ring_L_C1_Ogre
+    400108: joint_Out_ring_L_C2_Ogre
+    400110: joint_Out_ring_L_C3_Ogre
+    400112: joint_Out_ring_R_C1_Ogre
+    400114: joint_Out_ring_R_C2_Ogre
+    400116: joint_Out_ring_R_C3_Ogre
+    400118: joint_Out_spine_C1_Ogre
+    400120: joint_Out_spine_C2_Ogre
+    400122: joint_Out_spine_C3_Ogre
+    400124: joint_Out_spine_C4_Ogre
+    400126: joint_Out_thumb_L_C1_Ogre
+    400128: joint_Out_thumb_L_C2_Ogre
+    400130: joint_Out_thumb_L_C3_Ogre
+    400132: joint_Out_thumb_R_C1_Ogre
+    400134: joint_Out_thumb_R_C2_Ogre
+    400136: joint_Out_thumb_R_C3_Ogre
+    400138: steal_msh
+    400140: //RootNode
+    2300000: CTRL_spine_C0_Ogre
+    3300000: CTRL_spine_C0_Ogre
+    4300000: steal_msh
+    4300002: CTRL_spine_C0_Ogre
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: steal_msh
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: shader_CTRL_spine_C0_Ogre1
+    second: {fileID: 2100000, guid: d65732640cb00f34e9aa354716dc1854, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: steal_tex
+    second: {fileID: 2100000, guid: 22d8ab863db3dd041802ace51c6af21c, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: "Avatar Rig Configuration mis-match. Bone length in configuration
+      does not match position in animation file:\n\t'joint_Out_leg_L_root_Ogre' :
+      position error = 7241.241699 mm\n\t'joint_Out_leg_L_C1_Ogre' : position error
+      = 46616.347656 mm\n\t'joint_Out_leg_L_C2_Ogre' : position error = 39920.796875
+      mm\n\t'joint_Out_leg_L_C3_Ogre' : position error = 9590.557617 mm\n\t'joint_Out_leg_R_root_Ogre'
+      : position error = 7241.241699 mm\n\t'joint_Out_leg_R_C1_Ogre' : position error
+      = 46616.347656 mm\n\t'joint_Out_leg_R_C2_Ogre' : position error = 39920.796875
+      mm\n\t'joint_Out_leg_R_C3_Ogre' : position error = 9590.557617 mm\n\t'joint_Out_leg_R_C4_Ogre'
+      : position error = 5620.872559 mm\n"
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: joint_Out_spine_C1_Ogre
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_Out_leg_L_root_Ogre
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_Out_leg_R_root_Ogre
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_Out_leg_L_C1_Ogre
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_Out_leg_R_C1_Ogre
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_Out_leg_L_C2_Ogre
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_Out_leg_R_C2_Ogre
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_Out_spine_C2_Ogre
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_Out_spine_C3_Ogre
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_Out_neck_C1_Ogre
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_Out_neck_C2_Ogre
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_Out_clavicle_L_root_Ogre
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_Out_clavicle_R_root_Ogre
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_Out_arm_L_root_Ogre
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_Out_arm_R_root_Ogre
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_Out_arm_L_C1_Ogre
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_Out_arm_R_C1_Ogre
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_Out_arm_L_C2_Ogre
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_Out_arm_R_C2_Ogre
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_Out_leg_L_C3_Ogre
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_Out_leg_R_C4_Ogre
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_Out_neck_C3_Ogre
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_Out_thumb_L_C1_Ogre
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_Out_thumb_L_C2_Ogre
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_Out_thumb_L_C3_Ogre
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_Out_index_L_C1_Ogre
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_Out_index_L_C2_Ogre
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_Out_index_L_C3_Ogre
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_Out_major_L_C1_Ogre
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_Out_major_L_C2_Ogre
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_Out_major_L_C3_Ogre
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_Out_ring_L_C1_Ogre
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_Out_ring_L_C2_Ogre
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_Out_ring_L_C3_Ogre
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_Out_little_L_C1_Ogre
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_Out_little_L_C2_Ogre
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_Out_little_L_C3_Ogre
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_Out_thumb_R_C1_Ogre
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_Out_thumb_R_C2_Ogre
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_Out_thumb_R_C3_Ogre
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_Out_index_R_C1_Ogre
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_Out_index_R_C2_Ogre
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_Out_index_R_C3_Ogre
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_Out_major_R_C1_Ogre
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_Out_major_R_C2_Ogre
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_Out_major_R_C3_Ogre
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_Out_ring_R_C1_Ogre
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_Out_ring_R_C2_Ogre
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_Out_ring_R_C3_Ogre
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_Out_little_R_C1_Ogre
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_Out_little_R_C2_Ogre
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_Out_little_R_C3_Ogre
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_Out_spine_C4_Ogre
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: voleur_noanim01(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: enemies_GRP
+      parentName: voleur_noanim01(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: enemies_msh_GRP
+      parentName: enemies_GRP
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0039198, y: 1.0039198, z: 1.0039198}
+    - name: steal_msh
+      parentName: enemies_msh_GRP
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Group_RIG_Ogre
+      parentName: voleur_noanim01(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CTRL_globalSRT_OgreParent
+      parentName: Group_RIG_Ogre
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CTRL_globalSRT_Ogre
+      parentName: CTRL_globalSRT_OgreParent
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CTRL_spineGlobal_OgreParent
+      parentName: CTRL_globalSRT_Ogre
+      position: {x: -0, y: 0.019843094, z: -0.0004537893}
+      rotation: {x: 0.5, y: -0.5, z: -0.5, w: 0.5}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CTRL_spineGlobal_Ogre
+      parentName: CTRL_spineGlobal_OgreParent
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CTRL_spine_C0_OgreParent
+      parentName: CTRL_spineGlobal_Ogre
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CTRL_spine_C0_Ogre
+      parentName: CTRL_spine_C0_OgreParent
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Group_deformers_Ogre
+      parentName: Group_RIG_Ogre
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint_Out_spine_C1_Ogre
+      parentName: Group_deformers_Ogre
+      position: {x: -0, y: 0.019843094, z: -0.0004537893}
+      rotation: {x: -0.5186009, y: 0.48067984, z: 0.5186009, w: -0.48067984}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint_Out_spine_C2_Ogre
+      parentName: joint_Out_spine_C1_Ogre
+      position: {x: -0.0036968358, y: -2.7755575e-19, z: -8.2086245e-19}
+      rotation: {x: 0, y: 0, z: 0.040803496, w: 0.9991672}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint_Out_spine_C3_Ogre
+      parentName: joint_Out_spine_C2_Ogre
+      position: {x: -0.0036968358, y: -7.806255e-20, z: -8.543286e-19}
+      rotation: {x: 0, y: 0, z: 0.101928495, w: 0.99479175}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint_Out_spine_C4_Ogre
+      parentName: joint_Out_spine_C3_Ogre
+      position: {x: -0.0036968358, y: 0, z: -3.6615237e-18}
+      rotation: {x: 0, y: -0, z: -6.938894e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint_Out_neck_C1_Ogre
+      parentName: joint_Out_spine_C4_Ogre
+      position: {x: -0.002269437, y: 0.0005270687, z: -1.3697904e-18}
+      rotation: {x: 0, y: 0, z: 0.06403673, w: 0.9979476}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint_Out_neck_C2_Ogre
+      parentName: joint_Out_neck_C1_Ogre
+      position: {x: -0.0009538591, y: 0, z: -3.8901772e-19}
+      rotation: {x: 0, y: -0, z: -0.09777366, w: 0.9952087}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint_Out_neck_C3_Ogre
+      parentName: joint_Out_neck_C2_Ogre
+      position: {x: -0.0009538591, y: 1.6653345e-18, z: -2.5485013e-19}
+      rotation: {x: 0, y: 0, z: 4.1633363e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint_Out_clavicle_L_root_Ogre
+      parentName: joint_Out_spine_C4_Ogre
+      position: {x: -0.0008094215, y: 0.00019895413, z: 0.0015435902}
+      rotation: {x: 0.059447296, y: 0.6396201, z: -0.12666702, w: 0.75584894}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint_Out_clavicle_L_C1_Ogre
+      parentName: joint_Out_clavicle_L_root_Ogre
+      position: {x: -0.0010296664, y: -5.551115e-19, z: 4.440892e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint_Out_arm_L_root_Ogre
+      parentName: joint_Out_clavicle_L_C1_Ogre
+      position: {x: -0.00069466967, y: -0.00008563754, z: 0.00032943478}
+      rotation: {x: -0.043593083, y: 0.107320555, z: 0.03955171, w: 0.9924805}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint_Out_arm_L_C1_Ogre
+      parentName: joint_Out_arm_L_root_Ogre
+      position: {x: -0.0057942006, y: 6.938894e-20, z: 4.440892e-18}
+      rotation: {x: -0.0032559591, y: -0.017418912, z: -0.03459486, w: 0.9992443}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint_Out_arm_L_C2_twist_Ogre
+      parentName: joint_Out_arm_L_C1_Ogre
+      position: {x: -0.0026744418, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint_Out_arm_L_C2_Ogre
+      parentName: joint_Out_arm_L_C2_twist_Ogre
+      position: {x: -0.0026744418, y: -2.220446e-18, z: 0}
+      rotation: {x: 0.7907483, y: -0.06445947, z: 0.07070376, w: 0.6046182}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint_Out_thumb_L_C1_Ogre
+      parentName: joint_Out_arm_L_C2_Ogre
+      position: {x: -0.0007558944, y: 0.000052720025, z: -0.00055643806}
+      rotation: {x: 0.28635055, y: -0.31377146, z: 0.0860082, w: 0.9011955}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint_Out_thumb_L_C2_Ogre
+      parentName: joint_Out_thumb_L_C1_Ogre
+      position: {x: -0.00051296543, y: -1.7763568e-17, z: 8.881784e-18}
+      rotation: {x: 0.000000029802326, y: 0.00000032782557, z: -0.03524484, w: 0.99937874}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint_Out_thumb_L_C3_Ogre
+      parentName: joint_Out_thumb_L_C2_Ogre
+      position: {x: -0.0003240141, y: -2.220446e-18, z: -2.220446e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint_Out_index_L_C1_Ogre
+      parentName: joint_Out_arm_L_C2_Ogre
+      position: {x: -0.0013784381, y: 0.00007223313, z: -0.0003163953}
+      rotation: {x: 0.036158863, y: 0.026841862, z: -0.108120255, w: 0.99311733}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint_Out_index_L_C2_Ogre
+      parentName: joint_Out_index_L_C1_Ogre
+      position: {x: -0.0005791782, y: -8.881784e-18, z: 5.551115e-19}
+      rotation: {x: 0, y: 0, z: 0.013137499, w: 0.9999137}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint_Out_index_L_C3_Ogre
+      parentName: joint_Out_index_L_C2_Ogre
+      position: {x: -0.0003550049, y: -4.440892e-18, z: 1.6653345e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint_Out_major_L_C1_Ogre
+      parentName: joint_Out_arm_L_C2_Ogre
+      position: {x: -0.0014110426, y: 0.00008991331, z: 0.000035080924}
+      rotation: {x: -0.019459637, y: 0.026493937, z: -0.10862007, w: 0.9935397}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint_Out_major_L_C2_Ogre
+      parentName: joint_Out_major_L_C1_Ogre
+      position: {x: -0.00058859756, y: -4.440892e-18, z: 1.4571677e-18}
+      rotation: {x: 0, y: -0, z: -0.030485094, w: 0.9995352}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint_Out_major_L_C3_Ogre
+      parentName: joint_Out_major_L_C2_Ogre
+      position: {x: -0.0004258338, y: 0, z: 1.5265567e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint_Out_ring_L_C1_Ogre
+      parentName: joint_Out_arm_L_C2_Ogre
+      position: {x: -0.0013903605, y: 0.00015860086, z: 0.00040877063}
+      rotation: {x: -0.13340034, y: 0.021952203, z: -0.10840219, w: 0.98487127}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint_Out_ring_L_C2_Ogre
+      parentName: joint_Out_ring_L_C1_Ogre
+      position: {x: -0.0005488494, y: -1.3322676e-17, z: -3.8857806e-18}
+      rotation: {x: 0, y: -0, z: -0.029988185, w: 0.9995503}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint_Out_ring_L_C3_Ogre
+      parentName: joint_Out_ring_L_C2_Ogre
+      position: {x: -0.00033440534, y: -4.440892e-18, z: 1.110223e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint_Out_little_L_C1_Ogre
+      parentName: joint_Out_arm_L_C2_Ogre
+      position: {x: -0.0012710403, y: 0.00022135934, z: 0.0007112169}
+      rotation: {x: -0.21507762, y: 0.016473645, z: -0.10738503, w: 0.9705353}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint_Out_little_L_C2_Ogre
+      parentName: joint_Out_little_L_C1_Ogre
+      position: {x: -0.0004086404, y: -1.11022296e-17, z: 2.220446e-18}
+      rotation: {x: 0, y: 0, z: 0.0020928946, w: 0.99999785}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint_Out_little_L_C3_Ogre
+      parentName: joint_Out_little_L_C2_Ogre
+      position: {x: -0.00038807225, y: 6.661338e-18, z: -2.220446e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint_Out_clavicle_R_root_Ogre
+      parentName: joint_Out_spine_C4_Ogre
+      position: {x: -0.0008094215, y: 0.00019895413, z: -0.0015435902}
+      rotation: {x: -0.059447296, y: -0.6396201, z: -0.12666702, w: 0.75584894}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint_Out_clavicle_R_C1_Ogre
+      parentName: joint_Out_clavicle_R_root_Ogre
+      position: {x: -0.0010296664, y: 5.551115e-19, z: -4.440892e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint_Out_arm_R_root_Ogre
+      parentName: joint_Out_clavicle_R_C1_Ogre
+      position: {x: -0.00069466967, y: -0.00008563754, z: -0.00032943478}
+      rotation: {x: 0.04359305, y: -0.107320525, z: 0.03955168, w: 0.9924805}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint_Out_arm_R_C1_Ogre
+      parentName: joint_Out_arm_R_root_Ogre
+      position: {x: -0.0057942006, y: 3.9898638e-19, z: -4.440892e-18}
+      rotation: {x: 0.0032559442, y: 0.01741892, z: -0.03459478, w: 0.9992443}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint_Out_arm_R_C2_twist_Ogre
+      parentName: joint_Out_arm_R_C1_Ogre
+      position: {x: -0.0026744418, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint_Out_arm_R_C2_Ogre
+      parentName: joint_Out_arm_R_C2_twist_Ogre
+      position: {x: -0.0026744418, y: -1.110223e-18, z: 4.440892e-18}
+      rotation: {x: -0.7907483, y: 0.06445947, z: 0.07070376, w: 0.6046182}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint_Out_thumb_R_C1_Ogre
+      parentName: joint_Out_arm_R_C2_Ogre
+      position: {x: -0.0007558944, y: 0.000052720025, z: 0.00055643806}
+      rotation: {x: -0.28635067, y: 0.31377056, z: 0.08600754, w: 0.90119594}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint_Out_thumb_R_C2_Ogre
+      parentName: joint_Out_thumb_R_C1_Ogre
+      position: {x: -0.00051296543, y: -4.440892e-18, z: -8.881784e-18}
+      rotation: {x: 0.0000002682209, y: -0.0000065267086, z: -0.03523992, w: 0.9993789}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint_Out_thumb_R_C3_Ogre
+      parentName: joint_Out_thumb_R_C2_Ogre
+      position: {x: -0.0003240141, y: -2.220446e-18, z: 4.440892e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint_Out_index_R_C1_Ogre
+      parentName: joint_Out_arm_R_C2_Ogre
+      position: {x: -0.0013784381, y: 0.00007223313, z: 0.0003163953}
+      rotation: {x: -0.036158767, y: -0.026841406, z: -0.10811894, w: 0.9931175}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint_Out_index_R_C2_Ogre
+      parentName: joint_Out_index_R_C1_Ogre
+      position: {x: -0.0005791782, y: 4.440892e-18, z: 1.110223e-18}
+      rotation: {x: 0, y: 0, z: 0.013137499, w: 0.9999137}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint_Out_index_R_C3_Ogre
+      parentName: joint_Out_index_R_C2_Ogre
+      position: {x: -0.0003550049, y: -1.7763568e-17, z: 1.110223e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint_Out_major_R_C1_Ogre
+      parentName: joint_Out_arm_R_C2_Ogre
+      position: {x: -0.0014110426, y: 0.00008991331, z: -0.000035080924}
+      rotation: {x: 0.019459693, y: -0.026493814, z: -0.108623296, w: 0.99353933}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint_Out_major_R_C2_Ogre
+      parentName: joint_Out_major_R_C1_Ogre
+      position: {x: -0.00058859756, y: 0, z: 8.3266725e-19}
+      rotation: {x: 0, y: -0, z: -0.030485094, w: 0.9995352}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint_Out_major_R_C3_Ogre
+      parentName: joint_Out_major_R_C2_Ogre
+      position: {x: -0.0004258338, y: 0, z: -1.3877787e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint_Out_ring_R_C1_Ogre
+      parentName: joint_Out_arm_R_C2_Ogre
+      position: {x: -0.0013903605, y: 0.00015860086, z: -0.00040877063}
+      rotation: {x: 0.13340034, y: -0.021951923, z: -0.10840216, w: 0.9848713}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint_Out_ring_R_C2_Ogre
+      parentName: joint_Out_ring_R_C1_Ogre
+      position: {x: -0.0005488494, y: 0, z: 2.7755574e-18}
+      rotation: {x: 0, y: -0, z: -0.029988185, w: 0.9995503}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint_Out_ring_R_C3_Ogre
+      parentName: joint_Out_ring_R_C2_Ogre
+      position: {x: -0.00033440534, y: 0, z: -5.551115e-19}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint_Out_little_R_C1_Ogre
+      parentName: joint_Out_arm_R_C2_Ogre
+      position: {x: -0.0012710403, y: 0.00022135934, z: -0.0007112169}
+      rotation: {x: 0.21507785, y: -0.01647458, z: -0.10738487, w: 0.9705352}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint_Out_little_R_C2_Ogre
+      parentName: joint_Out_little_R_C1_Ogre
+      position: {x: -0.0004086404, y: 0, z: 1.110223e-18}
+      rotation: {x: 0, y: 0, z: 0.0020928946, w: 0.99999785}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint_Out_little_R_C3_Ogre
+      parentName: joint_Out_little_R_C2_Ogre
+      position: {x: -0.00038807225, y: -6.661338e-18, z: 3.330669e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint_Out_leg_L_root_Ogre
+      parentName: joint_Out_spine_C1_Ogre
+      position: {x: -0.00083950977, y: -0.00019856729, z: 0.0014061609}
+      rotation: {x: -0.045058984, y: 0.9989773, z: -0.003740587, w: 0.0001687196}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint_Out_leg_L_C1_Ogre
+      parentName: joint_Out_leg_L_root_Ogre
+      position: {x: -0.010620108, y: -1.3183898e-18, z: 2.4980017e-18}
+      rotation: {x: 0, y: 0, z: 0.03137325, w: 0.9995078}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint_Out_leg_L_C2_Ogre
+      parentName: joint_Out_leg_L_C1_Ogre
+      position: {x: -0.00909473, y: -2.7755575e-19, z: 1.9428903e-18}
+      rotation: {x: 0, y: -0, z: -0.6060284, w: 0.795443}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint_Out_leg_L_C3_Ogre
+      parentName: joint_Out_leg_L_C2_Ogre
+      position: {x: -0.002184915, y: -4.163336e-18, z: 2.7755575e-19}
+      rotation: {x: 0, y: -0, z: -0.15714644, w: 0.98757535}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint_Out_leg_L_C4_Ogre
+      parentName: joint_Out_leg_L_C3_Ogre
+      position: {x: -0.0012805436, y: 2.0816681e-19, z: 5.551115e-19}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint_Out_leg_R_root_Ogre
+      parentName: joint_Out_spine_C1_Ogre
+      position: {x: -0.00083950977, y: -0.00019856729, z: -0.0014061609}
+      rotation: {x: -0.045058984, y: 0.9989773, z: 0.003740587, w: -0.0001687196}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint_Out_leg_R_C1_Ogre
+      parentName: joint_Out_leg_R_root_Ogre
+      position: {x: -0.010620108, y: -1.179612e-18, z: -4.9960034e-18}
+      rotation: {x: 0, y: 0, z: 0.03137325, w: 0.9995078}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint_Out_leg_R_C2_Ogre
+      parentName: joint_Out_leg_R_C1_Ogre
+      position: {x: -0.00909473, y: -1.6653345e-18, z: -3.6082247e-18}
+      rotation: {x: 0, y: -0, z: -0.6060284, w: 0.795443}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint_Out_leg_R_C3_Ogre
+      parentName: joint_Out_leg_R_C2_Ogre
+      position: {x: -0.002184915, y: -3.0531133e-18, z: -5.551115e-19}
+      rotation: {x: 0, y: -0, z: -0.15714644, w: 0.98757535}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint_Out_leg_R_C4_Ogre
+      parentName: joint_Out_leg_R_C3_Ogre
+      position: {x: -0.0012805436, y: 3.469447e-20, z: -5.551115e-19}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

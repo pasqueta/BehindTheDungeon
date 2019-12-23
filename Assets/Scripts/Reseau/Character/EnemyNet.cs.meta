@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 3cbeb56cf3eda5043b1ac42d0bd75621
+timeCreated: 1522138600
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - boneModel: {fileID: 1661431518555162, guid: 382ac0e0dd3f6f74483efecc9fb3408b,
+      type: 2}
+  - moneyBagModel: {fileID: 1125510833667228, guid: 7aa4ae70df6ca5a48bca4a9f71edf933,
+      type: 2}
+  - lifeBar: {instanceID: 0}
+  - lifeCount: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

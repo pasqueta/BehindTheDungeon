@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: 2d5d18a9aca3c014398f31b12c794ff2
+timeCreated: 1521499458
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: BtD_props_0174:SM_door
+    100004: group13
+    100006: group18
+    100008: group9
+    100010: SM_floor48
+    100012: SM_floor49
+    100014: SM_floor50
+    100016: SM_floor51
+    100018: SM_pillarHuge32
+    100020: SM_pillarHuge33
+    100022: SM_pillarHuge34
+    100024: SM_pillarHuge35
+    100026: SM_wall29
+    100028: SM_wall30
+    100030: SM_wall31
+    100032: SM_wall32
+    100034: SM_wall33
+    100036: SM_wall34
+    100038: SM_wallDoor1
+    100040: SM_wallWindow9
+    400000: //RootNode
+    400002: BtD_props_0174:SM_door
+    400004: group13
+    400006: group18
+    400008: group9
+    400010: SM_floor48
+    400012: SM_floor49
+    400014: SM_floor50
+    400016: SM_floor51
+    400018: SM_pillarHuge32
+    400020: SM_pillarHuge33
+    400022: SM_pillarHuge34
+    400024: SM_pillarHuge35
+    400026: SM_wall29
+    400028: SM_wall30
+    400030: SM_wall31
+    400032: SM_wall32
+    400034: SM_wall33
+    400036: SM_wall34
+    400038: SM_wallDoor1
+    400040: SM_wallWindow9
+    2300000: //RootNode
+    2300002: BtD_props_0174:SM_door
+    2300004: SM_floor48
+    2300006: SM_floor49
+    2300008: SM_floor50
+    2300010: SM_floor51
+    2300012: SM_pillarHuge32
+    2300014: SM_pillarHuge33
+    2300016: SM_pillarHuge34
+    2300018: SM_pillarHuge35
+    2300020: SM_wall29
+    2300022: SM_wall30
+    2300024: SM_wall31
+    2300026: SM_wall32
+    2300028: SM_wall33
+    2300030: SM_wall34
+    2300032: SM_wallDoor1
+    2300034: SM_wallWindow9
+    3300000: //RootNode
+    3300002: BtD_props_0174:SM_door
+    3300004: SM_floor48
+    3300006: SM_floor49
+    3300008: SM_floor50
+    3300010: SM_floor51
+    3300012: SM_pillarHuge32
+    3300014: SM_pillarHuge33
+    3300016: SM_pillarHuge34
+    3300018: SM_pillarHuge35
+    3300020: SM_wall29
+    3300022: SM_wall30
+    3300024: SM_wall31
+    3300026: SM_wall32
+    3300028: SM_wall33
+    3300030: SM_wall34
+    3300032: SM_wallDoor1
+    3300034: SM_wallWindow9
+    4300000: little_room4
+    4300002: SM_wallWindow9
+    4300004: SM_wall29
+    4300006: SM_wall30
+    4300008: SM_wall31
+    4300010: SM_wall32
+    4300012: SM_wall33
+    4300014: SM_wall34
+    4300016: SM_floor50
+    4300018: SM_floor51
+    4300020: SM_floor48
+    4300022: SM_floor49
+    4300024: SM_wallDoor1
+    4300026: BtD_props_0174:SM_door
+    4300028: SM_pillarHuge32
+    4300030: SM_pillarHuge33
+    4300032: SM_pillarHuge34
+    4300034: SM_pillarHuge35
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

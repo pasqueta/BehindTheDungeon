@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 289aa5c1c2106c34096db48caa5863d3
+timeCreated: 1522055350
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - BonesPrefab: {fileID: 1661431518555162, guid: 17e4944164b588f439ebb2c4461fbeeb,
+      type: 2}
+  - monneyBag: {fileID: 1125510833667228, guid: 7aca545501f6e77479e57c67825e9eb9,
+      type: 2}
+  - lifeBar: {instanceID: 0}
+  - lifeCount: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

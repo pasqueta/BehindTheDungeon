@@ -1,0 +1,890 @@
+fileFormatVersion: 2
+guid: 03fe607336496ab4b9eac66632b72a7d
+timeCreated: 1521499458
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: colonne
+    100004: colonne1
+    100006: entry
+    100008: entry 1
+    100010: floor1
+    100012: SM_floor1
+    100014: SM_floor10
+    100016: SM_floor11
+    100018: SM_floor12
+    100020: SM_floor13
+    100022: SM_floor14
+    100024: SM_floor15
+    100026: SM_floor16
+    100028: SM_floor17
+    100030: SM_floor18
+    100032: SM_floor19
+    100034: SM_floor2
+    100036: SM_floor20
+    100038: SM_floor21
+    100040: SM_floor22
+    100042: SM_floor23
+    100044: SM_floor24
+    100046: SM_floor25
+    100048: SM_floor26
+    100050: SM_floor27
+    100052: SM_floor28
+    100054: SM_floor29
+    100056: SM_floor3
+    100058: SM_floor30
+    100060: SM_floor31
+    100062: SM_floor32
+    100064: SM_floor33
+    100066: SM_floor4
+    100068: SM_floor5
+    100070: SM_floor6
+    100072: SM_floor7
+    100074: SM_floor8
+    100076: SM_floor9
+    100078: SM_pillarHuge10
+    100080: SM_pillarHuge10 1
+    100082: SM_pillarHuge11
+    100084: SM_pillarHuge11 1
+    100086: SM_pillarHuge12
+    100088: SM_pillarHuge12 1
+    100090: SM_pillarHuge13
+    100092: SM_pillarHuge13 1
+    100094: SM_pillarHuge14
+    100096: SM_pillarHuge14 1
+    100098: SM_pillarHuge15
+    100100: SM_pillarHuge15 1
+    100102: SM_pillarHuge16
+    100104: SM_pillarHuge16 1
+    100106: SM_pillarHuge17
+    100108: SM_pillarHuge17 1
+    100110: SM_pillarHuge18
+    100112: SM_pillarHuge18 1
+    100114: SM_pillarHuge19
+    100116: SM_pillarHuge19 1
+    100118: SM_pillarHuge2
+    100120: SM_pillarHuge2 1
+    100122: SM_pillarHuge20
+    100124: SM_pillarHuge20 1
+    100126: SM_pillarHuge21
+    100128: SM_pillarHuge21 1
+    100130: SM_pillarHuge3
+    100132: SM_pillarHuge3 1
+    100134: SM_pillarHuge4
+    100136: SM_pillarHuge4 1
+    100138: SM_pillarHuge5
+    100140: SM_pillarHuge5 1
+    100142: SM_pillarHuge6
+    100144: SM_pillarHuge6 1
+    100146: SM_pillarHuge7
+    100148: SM_pillarHuge7 1
+    100150: SM_pillarHuge8
+    100152: SM_pillarHuge8 1
+    100154: SM_pillarHuge9
+    100156: SM_pillarHuge9 1
+    100158: SM_wall1
+    100160: SM_wall1 1
+    100162: SM_wall10
+    100164: SM_wall10 1
+    100166: SM_wall11
+    100168: SM_wall11 1
+    100170: SM_wall12
+    100172: SM_wall12 1
+    100174: SM_wall13
+    100176: SM_wall13 1
+    100178: SM_wall14
+    100180: SM_wall14 1
+    100182: SM_wall15
+    100184: SM_wall15 1
+    100186: SM_wall16
+    100188: SM_wall16 1
+    100190: SM_wall17
+    100192: SM_wall17 1
+    100194: SM_wall18
+    100196: SM_wall19
+    100198: SM_wall2
+    100200: SM_wall2 1
+    100202: SM_wall20
+    100204: SM_wall21
+    100206: SM_wall22
+    100208: SM_wall23
+    100210: SM_wall24
+    100212: SM_wall25
+    100214: SM_wall26
+    100216: SM_wall27
+    100218: SM_wall28
+    100220: SM_wall3
+    100222: SM_wall3 1
+    100224: SM_wall4
+    100226: SM_wall4 1
+    100228: SM_wall5
+    100230: SM_wall5 1
+    100232: SM_wall6
+    100234: SM_wall6 1
+    100236: SM_wall7
+    100238: SM_wall7 1
+    100240: SM_wall8
+    100242: SM_wall8 1
+    100244: SM_wall9
+    100246: SM_wall9 1
+    100248: SM_wallEntry1
+    100250: SM_wallEntry2
+    100252: SM_wallEntry3
+    100254: SM_wallEntry4
+    100256: SM_wallEntry5
+    100258: SM_wallWindow3
+    100260: SM_wallWindow4
+    100262: SM_wallWindow5
+    100264: SM_wallWindow6
+    100266: SM_wallWindow7
+    100268: SM_wallWindow8
+    100270: wall
+    100272: wall 1
+    100274: wall1rstfloor
+    100276: wall2ndfloor
+    100278: windows
+    100280: windows 1
+    100282: SM_floor81
+    100284: SM_floor82
+    100286: SM_floor83
+    100288: SM_floor84
+    100290: SM_floor85
+    100292: SM_floor86
+    100294: SM_floor87
+    100296: SM_floor88
+    100298: SM_floor89
+    100300: SM_floor90
+    100302: SM_floor91
+    100304: SM_floor92
+    100306: SM_floor93
+    100308: SM_floor94
+    100310: SM_floor95
+    100312: SM_wall68
+    100314: SM_wall69
+    100316: SM_wall70
+    100318: SM_wall71
+    100320: SM_wall72
+    100322: SM_wall73
+    100324: SM_wallWindow16
+    100326: SM_wallWindow17
+    100328: SM_wallWindow18
+    100330: SM_wallWindow19
+    100332: SM_wallWindow20
+    100334: SM_wallWindow21
+    400000: //RootNode
+    400002: colonne
+    400004: colonne1
+    400006: entry
+    400008: entry 1
+    400010: floor1
+    400012: SM_floor1
+    400014: SM_floor10
+    400016: SM_floor11
+    400018: SM_floor12
+    400020: SM_floor13
+    400022: SM_floor14
+    400024: SM_floor15
+    400026: SM_floor16
+    400028: SM_floor17
+    400030: SM_floor18
+    400032: SM_floor19
+    400034: SM_floor2
+    400036: SM_floor20
+    400038: SM_floor21
+    400040: SM_floor22
+    400042: SM_floor23
+    400044: SM_floor24
+    400046: SM_floor25
+    400048: SM_floor26
+    400050: SM_floor27
+    400052: SM_floor28
+    400054: SM_floor29
+    400056: SM_floor3
+    400058: SM_floor30
+    400060: SM_floor31
+    400062: SM_floor32
+    400064: SM_floor33
+    400066: SM_floor4
+    400068: SM_floor5
+    400070: SM_floor6
+    400072: SM_floor7
+    400074: SM_floor8
+    400076: SM_floor9
+    400078: SM_pillarHuge10
+    400080: SM_pillarHuge10 1
+    400082: SM_pillarHuge11
+    400084: SM_pillarHuge11 1
+    400086: SM_pillarHuge12
+    400088: SM_pillarHuge12 1
+    400090: SM_pillarHuge13
+    400092: SM_pillarHuge13 1
+    400094: SM_pillarHuge14
+    400096: SM_pillarHuge14 1
+    400098: SM_pillarHuge15
+    400100: SM_pillarHuge15 1
+    400102: SM_pillarHuge16
+    400104: SM_pillarHuge16 1
+    400106: SM_pillarHuge17
+    400108: SM_pillarHuge17 1
+    400110: SM_pillarHuge18
+    400112: SM_pillarHuge18 1
+    400114: SM_pillarHuge19
+    400116: SM_pillarHuge19 1
+    400118: SM_pillarHuge2
+    400120: SM_pillarHuge2 1
+    400122: SM_pillarHuge20
+    400124: SM_pillarHuge20 1
+    400126: SM_pillarHuge21
+    400128: SM_pillarHuge21 1
+    400130: SM_pillarHuge3
+    400132: SM_pillarHuge3 1
+    400134: SM_pillarHuge4
+    400136: SM_pillarHuge4 1
+    400138: SM_pillarHuge5
+    400140: SM_pillarHuge5 1
+    400142: SM_pillarHuge6
+    400144: SM_pillarHuge6 1
+    400146: SM_pillarHuge7
+    400148: SM_pillarHuge7 1
+    400150: SM_pillarHuge8
+    400152: SM_pillarHuge8 1
+    400154: SM_pillarHuge9
+    400156: SM_pillarHuge9 1
+    400158: SM_wall1
+    400160: SM_wall1 1
+    400162: SM_wall10
+    400164: SM_wall10 1
+    400166: SM_wall11
+    400168: SM_wall11 1
+    400170: SM_wall12
+    400172: SM_wall12 1
+    400174: SM_wall13
+    400176: SM_wall13 1
+    400178: SM_wall14
+    400180: SM_wall14 1
+    400182: SM_wall15
+    400184: SM_wall15 1
+    400186: SM_wall16
+    400188: SM_wall16 1
+    400190: SM_wall17
+    400192: SM_wall17 1
+    400194: SM_wall18
+    400196: SM_wall19
+    400198: SM_wall2
+    400200: SM_wall2 1
+    400202: SM_wall20
+    400204: SM_wall21
+    400206: SM_wall22
+    400208: SM_wall23
+    400210: SM_wall24
+    400212: SM_wall25
+    400214: SM_wall26
+    400216: SM_wall27
+    400218: SM_wall28
+    400220: SM_wall3
+    400222: SM_wall3 1
+    400224: SM_wall4
+    400226: SM_wall4 1
+    400228: SM_wall5
+    400230: SM_wall5 1
+    400232: SM_wall6
+    400234: SM_wall6 1
+    400236: SM_wall7
+    400238: SM_wall7 1
+    400240: SM_wall8
+    400242: SM_wall8 1
+    400244: SM_wall9
+    400246: SM_wall9 1
+    400248: SM_wallEntry1
+    400250: SM_wallEntry2
+    400252: SM_wallEntry3
+    400254: SM_wallEntry4
+    400256: SM_wallEntry5
+    400258: SM_wallWindow3
+    400260: SM_wallWindow4
+    400262: SM_wallWindow5
+    400264: SM_wallWindow6
+    400266: SM_wallWindow7
+    400268: SM_wallWindow8
+    400270: wall
+    400272: wall 1
+    400274: wall1rstfloor
+    400276: wall2ndfloor
+    400278: windows
+    400280: windows 1
+    400282: SM_floor81
+    400284: SM_floor82
+    400286: SM_floor83
+    400288: SM_floor84
+    400290: SM_floor85
+    400292: SM_floor86
+    400294: SM_floor87
+    400296: SM_floor88
+    400298: SM_floor89
+    400300: SM_floor90
+    400302: SM_floor91
+    400304: SM_floor92
+    400306: SM_floor93
+    400308: SM_floor94
+    400310: SM_floor95
+    400312: SM_wall68
+    400314: SM_wall69
+    400316: SM_wall70
+    400318: SM_wall71
+    400320: SM_wall72
+    400322: SM_wall73
+    400324: SM_wallWindow16
+    400326: SM_wallWindow17
+    400328: SM_wallWindow18
+    400330: SM_wallWindow19
+    400332: SM_wallWindow20
+    400334: SM_wallWindow21
+    2300000: //RootNode
+    2300002: SM_floor1
+    2300004: SM_floor10
+    2300006: SM_floor11
+    2300008: SM_floor12
+    2300010: SM_floor13
+    2300012: SM_floor14
+    2300014: SM_floor15
+    2300016: SM_floor16
+    2300018: SM_floor17
+    2300020: SM_floor18
+    2300022: SM_floor19
+    2300024: SM_floor2
+    2300026: SM_floor20
+    2300028: SM_floor21
+    2300030: SM_floor22
+    2300032: SM_floor23
+    2300034: SM_floor24
+    2300036: SM_floor25
+    2300038: SM_floor26
+    2300040: SM_floor27
+    2300042: SM_floor28
+    2300044: SM_floor29
+    2300046: SM_floor3
+    2300048: SM_floor30
+    2300050: SM_floor31
+    2300052: SM_floor32
+    2300054: SM_floor33
+    2300056: SM_floor4
+    2300058: SM_floor5
+    2300060: SM_floor6
+    2300062: SM_floor7
+    2300064: SM_floor8
+    2300066: SM_floor9
+    2300068: SM_pillarHuge10
+    2300070: SM_pillarHuge10 1
+    2300072: SM_pillarHuge11
+    2300074: SM_pillarHuge11 1
+    2300076: SM_pillarHuge12
+    2300078: SM_pillarHuge12 1
+    2300080: SM_pillarHuge13
+    2300082: SM_pillarHuge13 1
+    2300084: SM_pillarHuge14
+    2300086: SM_pillarHuge14 1
+    2300088: SM_pillarHuge15
+    2300090: SM_pillarHuge15 1
+    2300092: SM_pillarHuge16
+    2300094: SM_pillarHuge16 1
+    2300096: SM_pillarHuge17
+    2300098: SM_pillarHuge17 1
+    2300100: SM_pillarHuge18
+    2300102: SM_pillarHuge18 1
+    2300104: SM_pillarHuge19
+    2300106: SM_pillarHuge19 1
+    2300108: SM_pillarHuge2
+    2300110: SM_pillarHuge2 1
+    2300112: SM_pillarHuge20
+    2300114: SM_pillarHuge20 1
+    2300116: SM_pillarHuge21
+    2300118: SM_pillarHuge21 1
+    2300120: SM_pillarHuge3
+    2300122: SM_pillarHuge3 1
+    2300124: SM_pillarHuge4
+    2300126: SM_pillarHuge4 1
+    2300128: SM_pillarHuge5
+    2300130: SM_pillarHuge5 1
+    2300132: SM_pillarHuge6
+    2300134: SM_pillarHuge6 1
+    2300136: SM_pillarHuge7
+    2300138: SM_pillarHuge7 1
+    2300140: SM_pillarHuge8
+    2300142: SM_pillarHuge8 1
+    2300144: SM_pillarHuge9
+    2300146: SM_pillarHuge9 1
+    2300148: SM_wall1
+    2300150: SM_wall1 1
+    2300152: SM_wall10
+    2300154: SM_wall10 1
+    2300156: SM_wall11
+    2300158: SM_wall11 1
+    2300160: SM_wall12
+    2300162: SM_wall12 1
+    2300164: SM_wall13
+    2300166: SM_wall13 1
+    2300168: SM_wall14
+    2300170: SM_wall14 1
+    2300172: SM_wall15
+    2300174: SM_wall15 1
+    2300176: SM_wall16
+    2300178: SM_wall16 1
+    2300180: SM_wall17
+    2300182: SM_wall17 1
+    2300184: SM_wall18
+    2300186: SM_wall19
+    2300188: SM_wall2
+    2300190: SM_wall2 1
+    2300192: SM_wall20
+    2300194: SM_wall21
+    2300196: SM_wall22
+    2300198: SM_wall23
+    2300200: SM_wall24
+    2300202: SM_wall25
+    2300204: SM_wall26
+    2300206: SM_wall27
+    2300208: SM_wall28
+    2300210: SM_wall3
+    2300212: SM_wall3 1
+    2300214: SM_wall4
+    2300216: SM_wall4 1
+    2300218: SM_wall5
+    2300220: SM_wall5 1
+    2300222: SM_wall6
+    2300224: SM_wall6 1
+    2300226: SM_wall7
+    2300228: SM_wall7 1
+    2300230: SM_wall8
+    2300232: SM_wall8 1
+    2300234: SM_wall9
+    2300236: SM_wall9 1
+    2300238: SM_wallEntry1
+    2300240: SM_wallEntry2
+    2300242: SM_wallEntry3
+    2300244: SM_wallEntry4
+    2300246: SM_wallEntry5
+    2300248: SM_wallWindow3
+    2300250: SM_wallWindow4
+    2300252: SM_wallWindow5
+    2300254: SM_wallWindow6
+    2300256: SM_wallWindow7
+    2300258: SM_wallWindow8
+    2300260: SM_floor81
+    2300262: SM_floor82
+    2300264: SM_floor83
+    2300266: SM_floor84
+    2300268: SM_floor85
+    2300270: SM_floor86
+    2300272: SM_floor87
+    2300274: SM_floor88
+    2300276: SM_floor89
+    2300278: SM_floor90
+    2300280: SM_floor91
+    2300282: SM_floor92
+    2300284: SM_floor93
+    2300286: SM_floor94
+    2300288: SM_floor95
+    2300290: SM_wall68
+    2300292: SM_wall69
+    2300294: SM_wall70
+    2300296: SM_wall71
+    2300298: SM_wall72
+    2300300: SM_wall73
+    2300302: SM_wallWindow16
+    2300304: SM_wallWindow17
+    2300306: SM_wallWindow18
+    2300308: SM_wallWindow19
+    2300310: SM_wallWindow20
+    2300312: SM_wallWindow21
+    3300000: //RootNode
+    3300002: SM_floor1
+    3300004: SM_floor10
+    3300006: SM_floor11
+    3300008: SM_floor12
+    3300010: SM_floor13
+    3300012: SM_floor14
+    3300014: SM_floor15
+    3300016: SM_floor16
+    3300018: SM_floor17
+    3300020: SM_floor18
+    3300022: SM_floor19
+    3300024: SM_floor2
+    3300026: SM_floor20
+    3300028: SM_floor21
+    3300030: SM_floor22
+    3300032: SM_floor23
+    3300034: SM_floor24
+    3300036: SM_floor25
+    3300038: SM_floor26
+    3300040: SM_floor27
+    3300042: SM_floor28
+    3300044: SM_floor29
+    3300046: SM_floor3
+    3300048: SM_floor30
+    3300050: SM_floor31
+    3300052: SM_floor32
+    3300054: SM_floor33
+    3300056: SM_floor4
+    3300058: SM_floor5
+    3300060: SM_floor6
+    3300062: SM_floor7
+    3300064: SM_floor8
+    3300066: SM_floor9
+    3300068: SM_pillarHuge10
+    3300070: SM_pillarHuge10 1
+    3300072: SM_pillarHuge11
+    3300074: SM_pillarHuge11 1
+    3300076: SM_pillarHuge12
+    3300078: SM_pillarHuge12 1
+    3300080: SM_pillarHuge13
+    3300082: SM_pillarHuge13 1
+    3300084: SM_pillarHuge14
+    3300086: SM_pillarHuge14 1
+    3300088: SM_pillarHuge15
+    3300090: SM_pillarHuge15 1
+    3300092: SM_pillarHuge16
+    3300094: SM_pillarHuge16 1
+    3300096: SM_pillarHuge17
+    3300098: SM_pillarHuge17 1
+    3300100: SM_pillarHuge18
+    3300102: SM_pillarHuge18 1
+    3300104: SM_pillarHuge19
+    3300106: SM_pillarHuge19 1
+    3300108: SM_pillarHuge2
+    3300110: SM_pillarHuge2 1
+    3300112: SM_pillarHuge20
+    3300114: SM_pillarHuge20 1
+    3300116: SM_pillarHuge21
+    3300118: SM_pillarHuge21 1
+    3300120: SM_pillarHuge3
+    3300122: SM_pillarHuge3 1
+    3300124: SM_pillarHuge4
+    3300126: SM_pillarHuge4 1
+    3300128: SM_pillarHuge5
+    3300130: SM_pillarHuge5 1
+    3300132: SM_pillarHuge6
+    3300134: SM_pillarHuge6 1
+    3300136: SM_pillarHuge7
+    3300138: SM_pillarHuge7 1
+    3300140: SM_pillarHuge8
+    3300142: SM_pillarHuge8 1
+    3300144: SM_pillarHuge9
+    3300146: SM_pillarHuge9 1
+    3300148: SM_wall1
+    3300150: SM_wall1 1
+    3300152: SM_wall10
+    3300154: SM_wall10 1
+    3300156: SM_wall11
+    3300158: SM_wall11 1
+    3300160: SM_wall12
+    3300162: SM_wall12 1
+    3300164: SM_wall13
+    3300166: SM_wall13 1
+    3300168: SM_wall14
+    3300170: SM_wall14 1
+    3300172: SM_wall15
+    3300174: SM_wall15 1
+    3300176: SM_wall16
+    3300178: SM_wall16 1
+    3300180: SM_wall17
+    3300182: SM_wall17 1
+    3300184: SM_wall18
+    3300186: SM_wall19
+    3300188: SM_wall2
+    3300190: SM_wall2 1
+    3300192: SM_wall20
+    3300194: SM_wall21
+    3300196: SM_wall22
+    3300198: SM_wall23
+    3300200: SM_wall24
+    3300202: SM_wall25
+    3300204: SM_wall26
+    3300206: SM_wall27
+    3300208: SM_wall28
+    3300210: SM_wall3
+    3300212: SM_wall3 1
+    3300214: SM_wall4
+    3300216: SM_wall4 1
+    3300218: SM_wall5
+    3300220: SM_wall5 1
+    3300222: SM_wall6
+    3300224: SM_wall6 1
+    3300226: SM_wall7
+    3300228: SM_wall7 1
+    3300230: SM_wall8
+    3300232: SM_wall8 1
+    3300234: SM_wall9
+    3300236: SM_wall9 1
+    3300238: SM_wallEntry1
+    3300240: SM_wallEntry2
+    3300242: SM_wallEntry3
+    3300244: SM_wallEntry4
+    3300246: SM_wallEntry5
+    3300248: SM_wallWindow3
+    3300250: SM_wallWindow4
+    3300252: SM_wallWindow5
+    3300254: SM_wallWindow6
+    3300256: SM_wallWindow7
+    3300258: SM_wallWindow8
+    3300260: SM_floor81
+    3300262: SM_floor82
+    3300264: SM_floor83
+    3300266: SM_floor84
+    3300268: SM_floor85
+    3300270: SM_floor86
+    3300272: SM_floor87
+    3300274: SM_floor88
+    3300276: SM_floor89
+    3300278: SM_floor90
+    3300280: SM_floor91
+    3300282: SM_floor92
+    3300284: SM_floor93
+    3300286: SM_floor94
+    3300288: SM_floor95
+    3300290: SM_wall68
+    3300292: SM_wall69
+    3300294: SM_wall70
+    3300296: SM_wall71
+    3300298: SM_wall72
+    3300300: SM_wall73
+    3300302: SM_wallWindow16
+    3300304: SM_wallWindow17
+    3300306: SM_wallWindow18
+    3300308: SM_wallWindow19
+    3300310: SM_wallWindow20
+    3300312: SM_wallWindow21
+    4300000: Boss_floor2
+    4300002: SM_floor1
+    4300004: SM_floor2
+    4300006: SM_floor3
+    4300008: SM_floor4
+    4300010: SM_floor5
+    4300012: SM_floor6
+    4300014: SM_floor7
+    4300016: SM_floor8
+    4300018: SM_floor9
+    4300020: SM_floor10
+    4300022: SM_floor11
+    4300024: SM_floor12
+    4300026: SM_floor13
+    4300028: SM_floor14
+    4300030: SM_floor15
+    4300032: SM_floor16
+    4300034: SM_floor17
+    4300036: SM_floor18
+    4300038: SM_floor19
+    4300040: SM_floor20
+    4300042: SM_floor21
+    4300044: SM_floor22
+    4300046: SM_floor23
+    4300048: SM_floor24
+    4300050: SM_floor25
+    4300052: SM_floor26
+    4300054: SM_floor27
+    4300056: SM_floor28
+    4300058: SM_floor29
+    4300060: SM_floor30
+    4300062: SM_floor31
+    4300064: SM_floor32
+    4300066: SM_floor33
+    4300068: SM_wallWindow3
+    4300070: SM_wallWindow4
+    4300072: SM_wallWindow5
+    4300074: SM_wallWindow6
+    4300076: SM_wallWindow7
+    4300078: SM_wallWindow8
+    4300080: SM_wallEntry5
+    4300082: SM_wallEntry4
+    4300084: SM_wallEntry3
+    4300086: SM_wallEntry2
+    4300088: SM_wallEntry1
+    4300090: SM_wall17
+    4300092: SM_wall16
+    4300094: SM_wall15
+    4300096: SM_wall14
+    4300098: SM_wall13
+    4300100: SM_wall12
+    4300102: SM_wall11
+    4300104: SM_wall10
+    4300106: SM_wall9
+    4300108: SM_wall8
+    4300110: SM_wall7
+    4300112: SM_wall6
+    4300114: SM_wall5
+    4300116: SM_wall4
+    4300118: SM_wall3
+    4300120: SM_wall2
+    4300122: SM_wall1
+    4300124: SM_wall17
+    4300126: SM_wall16
+    4300128: SM_wall15
+    4300130: SM_wall14
+    4300132: SM_wall13
+    4300134: SM_wall12
+    4300136: SM_wall11
+    4300138: SM_wall10
+    4300140: SM_wall9
+    4300142: SM_wall8
+    4300144: SM_wall7
+    4300146: SM_wall6
+    4300148: SM_wall5
+    4300150: SM_wall4
+    4300152: SM_wall3
+    4300154: SM_wall2
+    4300156: SM_wall1
+    4300158: SM_wall18
+    4300160: SM_wall19
+    4300162: SM_wall20
+    4300164: SM_wall21
+    4300166: SM_wall22
+    4300168: SM_wall23
+    4300170: SM_wall24
+    4300172: SM_wall25
+    4300174: SM_wall26
+    4300176: SM_wall27
+    4300178: SM_wall28
+    4300180: SM_pillarHuge2
+    4300182: SM_pillarHuge3
+    4300184: SM_pillarHuge4
+    4300186: SM_pillarHuge5
+    4300188: SM_pillarHuge6
+    4300190: SM_pillarHuge7
+    4300192: SM_pillarHuge8
+    4300194: SM_pillarHuge9
+    4300196: SM_pillarHuge10
+    4300198: SM_pillarHuge11
+    4300200: SM_pillarHuge12
+    4300202: SM_pillarHuge13
+    4300204: SM_pillarHuge14
+    4300206: SM_pillarHuge15
+    4300208: SM_pillarHuge16
+    4300210: SM_pillarHuge17
+    4300212: SM_pillarHuge18
+    4300214: SM_pillarHuge19
+    4300216: SM_pillarHuge20
+    4300218: SM_pillarHuge21
+    4300220: SM_pillarHuge2
+    4300222: SM_pillarHuge3
+    4300224: SM_pillarHuge4
+    4300226: SM_pillarHuge5
+    4300228: SM_pillarHuge6
+    4300230: SM_pillarHuge7
+    4300232: SM_pillarHuge8
+    4300234: SM_pillarHuge9
+    4300236: SM_pillarHuge10
+    4300238: SM_pillarHuge11
+    4300240: SM_pillarHuge12
+    4300242: SM_pillarHuge13
+    4300244: SM_pillarHuge14
+    4300246: SM_pillarHuge15
+    4300248: SM_pillarHuge16
+    4300250: SM_pillarHuge17
+    4300252: SM_pillarHuge18
+    4300254: SM_pillarHuge19
+    4300256: SM_pillarHuge20
+    4300258: SM_pillarHuge21
+    4300260: SM_floor81
+    4300262: SM_floor82
+    4300264: SM_floor83
+    4300266: SM_floor84
+    4300268: SM_floor85
+    4300270: SM_floor86
+    4300272: SM_floor87
+    4300274: SM_floor88
+    4300276: SM_floor89
+    4300278: SM_floor90
+    4300280: SM_floor91
+    4300282: SM_floor92
+    4300284: SM_floor93
+    4300286: SM_floor94
+    4300288: SM_floor95
+    4300290: SM_wallWindow16
+    4300292: SM_wallWindow17
+    4300294: SM_wallWindow18
+    4300296: SM_wallWindow19
+    4300298: SM_wallWindow20
+    4300300: SM_wallWindow21
+    4300302: SM_wall68
+    4300304: SM_wall69
+    4300306: SM_wall70
+    4300308: SM_wall71
+    4300310: SM_wall72
+    4300312: SM_wall73
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 61132f1519c8c784ba87a837140fdd85, type: 3}
+  m_Name: IronScythe
+  m_EditorClassIdentifier: 
+  displayName: IronScythe
+  icon: {fileID: 21300000, guid: 1921eeb6358443d40b9862b8c9377ffa, type: 3}
+  soundCraft: {fileID: 8300000, guid: 8027c9f5efd9c2543b57c04bec16d5b9, type: 3}
+  soundHit: {fileID: 0}
+  wood: 0
+  iron: 20
+  diamond: 0
+  mithril: 0
+  bones: 0
+  dust: 0
+  weapon: 4
+  weaponAttack: 20
+  durability: 20
+  durabilityMax: 20
+  iconCarre: {fileID: 21300000, guid: 15a095f0ae3a6414ea6e0f33c8486da1, type: 3}
+  iconResource:
+  - {fileID: 21300000, guid: 5560519d6be26534783f2e324d93b096, type: 3}
+  prefabWeapon: {fileID: 1675649215090060, guid: 46e3fc13eb52a6d418e5ea391fed0101,
+    type: 2}

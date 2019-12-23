@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a903c78ae5b04584d8178074b3127b47, type: 3}
+  m_Name: FrostTrap
+  m_EditorClassIdentifier: 
+  displayName: Frozen Mine
+  icon: {fileID: 21300000, guid: 8efba23b987e65f43a2e38c7d9657eb2, type: 3}
+  soundCraft: {fileID: 8300000, guid: 751134c7cd4f3f9479f04168af1d073f, type: 3}
+  soundHit: {fileID: 0}
+  wood: 0
+  iron: 10
+  diamond: 5
+  mithril: 0
+  bones: 0
+  dust: 0
+  trap: 1
+  trapDamages: 10
+  trapMaxUses: 1
+  iconResource:
+  - {fileID: 21300000, guid: 5560519d6be26534783f2e324d93b096, type: 3}
+  - {fileID: 21300000, guid: c59d4d956dfa90a4f8998240472429e2, type: 3}

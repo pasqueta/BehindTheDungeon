@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 61132f1519c8c784ba87a837140fdd85, type: 3}
+  m_Name: DiamondScythe
+  m_EditorClassIdentifier: 
+  displayName: DiamondScythe
+  icon: {fileID: 21300000, guid: 7721af142cca70844a6c6a19944a5659, type: 3}
+  soundCraft: {fileID: 8300000, guid: 8027c9f5efd9c2543b57c04bec16d5b9, type: 3}
+  soundHit: {fileID: 0}
+  wood: 0
+  iron: 0
+  diamond: 20
+  mithril: 0
+  bones: 0
+  dust: 0
+  weapon: 7
+  weaponAttack: 30
+  durability: 15
+  durabilityMax: 15
+  iconCarre: {fileID: 21300000, guid: 35859b8fcbf3f18479bc9cd537c3472d, type: 3}
+  iconResource:
+  - {fileID: 21300000, guid: c59d4d956dfa90a4f8998240472429e2, type: 3}
+  prefabWeapon: {fileID: 1027642845076360, guid: fc3f7c4dc5066ec4f80dcdc9f811d922,
+    type: 2}

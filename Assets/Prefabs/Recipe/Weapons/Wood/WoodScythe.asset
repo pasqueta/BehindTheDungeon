@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 61132f1519c8c784ba87a837140fdd85, type: 3}
+  m_Name: WoodScythe
+  m_EditorClassIdentifier: 
+  displayName: WoodScythe
+  icon: {fileID: 21300000, guid: 8cdcf53ec47de424b9ad09813d27030a, type: 3}
+  soundCraft: {fileID: 8300000, guid: 8027c9f5efd9c2543b57c04bec16d5b9, type: 3}
+  soundHit: {fileID: 0}
+  wood: 20
+  iron: 0
+  diamond: 0
+  mithril: 0
+  bones: 0
+  dust: 0
+  weapon: 1
+  weaponAttack: 10
+  durability: 25
+  durabilityMax: 25
+  iconCarre: {fileID: 21300000, guid: 8639cb024ecc646449d8ac8bbdfa3a78, type: 3}
+  iconResource:
+  - {fileID: 21300000, guid: e2ee9ffbfb1bc4641a0a7abe4e40d48d, type: 3}
+  prefabWeapon: {fileID: 1979741788910312, guid: 457b8f4a2c98c0346930383ddd3898c9,
+    type: 2}

@@ -1,0 +1,229 @@
+fileFormatVersion: 2
+guid: 1c485a3aa049a584fb2856884a6b108b
+timeCreated: 1521499560
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: group12
+    100004: group15
+    100006: group20
+    100008: SM_door
+    100010: SM_floor64
+    100012: SM_floor65
+    100014: SM_floor66
+    100016: SM_floor67
+    100018: SM_floor68
+    100020: SM_floor69
+    100022: SM_floor70
+    100024: SM_floor71
+    100026: SM_floor72
+    100028: SM_pillarHuge36
+    100030: SM_pillarHuge37
+    100032: SM_pillarHuge38
+    100034: SM_pillarHuge39
+    100036: SM_wall35
+    100038: SM_wall36
+    100040: SM_wall37
+    100042: SM_wall38
+    100044: SM_wall39
+    100046: SM_wall40
+    100048: SM_wall41
+    100050: SM_wall42
+    100052: SM_wall43
+    100054: SM_wallDoor2
+    100056: SM_wallWindow10
+    100058: SM_wallWindow11
+    100060: SM_wallWindow12
+    400000: //RootNode
+    400002: group12
+    400004: group15
+    400006: group20
+    400008: SM_door
+    400010: SM_floor64
+    400012: SM_floor65
+    400014: SM_floor66
+    400016: SM_floor67
+    400018: SM_floor68
+    400020: SM_floor69
+    400022: SM_floor70
+    400024: SM_floor71
+    400026: SM_floor72
+    400028: SM_pillarHuge36
+    400030: SM_pillarHuge37
+    400032: SM_pillarHuge38
+    400034: SM_pillarHuge39
+    400036: SM_wall35
+    400038: SM_wall36
+    400040: SM_wall37
+    400042: SM_wall38
+    400044: SM_wall39
+    400046: SM_wall40
+    400048: SM_wall41
+    400050: SM_wall42
+    400052: SM_wall43
+    400054: SM_wallDoor2
+    400056: SM_wallWindow10
+    400058: SM_wallWindow11
+    400060: SM_wallWindow12
+    2300000: //RootNode
+    2300002: SM_door
+    2300004: SM_floor64
+    2300006: SM_floor65
+    2300008: SM_floor66
+    2300010: SM_floor67
+    2300012: SM_floor68
+    2300014: SM_floor69
+    2300016: SM_floor70
+    2300018: SM_floor71
+    2300020: SM_floor72
+    2300022: SM_pillarHuge36
+    2300024: SM_pillarHuge37
+    2300026: SM_pillarHuge38
+    2300028: SM_pillarHuge39
+    2300030: SM_wall35
+    2300032: SM_wall36
+    2300034: SM_wall37
+    2300036: SM_wall38
+    2300038: SM_wall39
+    2300040: SM_wall40
+    2300042: SM_wall41
+    2300044: SM_wall42
+    2300046: SM_wall43
+    2300048: SM_wallDoor2
+    2300050: SM_wallWindow10
+    2300052: SM_wallWindow11
+    2300054: SM_wallWindow12
+    3300000: //RootNode
+    3300002: SM_door
+    3300004: SM_floor64
+    3300006: SM_floor65
+    3300008: SM_floor66
+    3300010: SM_floor67
+    3300012: SM_floor68
+    3300014: SM_floor69
+    3300016: SM_floor70
+    3300018: SM_floor71
+    3300020: SM_floor72
+    3300022: SM_pillarHuge36
+    3300024: SM_pillarHuge37
+    3300026: SM_pillarHuge38
+    3300028: SM_pillarHuge39
+    3300030: SM_wall35
+    3300032: SM_wall36
+    3300034: SM_wall37
+    3300036: SM_wall38
+    3300038: SM_wall39
+    3300040: SM_wall40
+    3300042: SM_wall41
+    3300044: SM_wall42
+    3300046: SM_wall43
+    3300048: SM_wallDoor2
+    3300050: SM_wallWindow10
+    3300052: SM_wallWindow11
+    3300054: SM_wallWindow12
+    4300000: high_room2
+    4300002: SM_wallWindow10
+    4300004: SM_floor67
+    4300006: SM_floor69
+    4300008: SM_floor66
+    4300010: SM_floor68
+    4300012: SM_floor65
+    4300014: SM_floor64
+    4300016: SM_floor72
+    4300018: SM_floor70
+    4300020: SM_floor71
+    4300022: SM_wall35
+    4300024: SM_wall36
+    4300026: SM_wall37
+    4300028: SM_wall38
+    4300030: SM_wall39
+    4300032: SM_wall40
+    4300034: SM_wall41
+    4300036: SM_wall42
+    4300038: SM_wall43
+    4300040: SM_wallWindow11
+    4300042: SM_wallWindow12
+    4300044: SM_wallDoor2
+    4300046: SM_door
+    4300048: SM_pillarHuge36
+    4300050: SM_pillarHuge37
+    4300052: SM_pillarHuge38
+    4300054: SM_pillarHuge39
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

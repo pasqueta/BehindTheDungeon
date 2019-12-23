@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 61132f1519c8c784ba87a837140fdd85, type: 3}
+  m_Name: WoodSword
+  m_EditorClassIdentifier: 
+  displayName: WoodSword
+  icon: {fileID: 21300000, guid: ef8b4d5452eda0740923045993b80f93, type: 3}
+  soundCraft: {fileID: 8300000, guid: 8027c9f5efd9c2543b57c04bec16d5b9, type: 3}
+  soundHit: {fileID: 0}
+  wood: 10
+  iron: 0
+  diamond: 0
+  mithril: 0
+  bones: 0
+  dust: 0
+  weapon: 0
+  weaponAttack: 30
+  durability: 25
+  durabilityMax: 25
+  iconCarre: {fileID: 21300000, guid: 5ea004a10fa9c7c4585fe27133767893, type: 3}
+  iconResource:
+  - {fileID: 21300000, guid: e2ee9ffbfb1bc4641a0a7abe4e40d48d, type: 3}
+  prefabWeapon: {fileID: 1086578072099430, guid: ff71a4d76c101c84b9e102008587fb5c,
+    type: 2}

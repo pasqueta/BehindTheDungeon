@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: f1c13d0c5311bc24cba8ecae06aa76e3
+timeCreated: 1527076819
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - animationrouageMenu: {instanceID: 0}
+  - animationrouageMenu2: {instanceID: 0}
+  - canvasMenuMenu: {fileID: 1169747704318628, guid: 38d3c88cd14066e4caf84c200d5e683e,
+      type: 2}
+  - canvasMenuPlay: {fileID: 1945896156830854, guid: 92138bc23db696e42a2b9ad2f0aa8f68,
+      type: 2}
+  - canvasMenuOption: {fileID: 1224987852433686, guid: 65197ac9cd0e4bc4fb9a57d18b32da90,
+      type: 2}
+  - canvasMenuSelectCharacter: {fileID: 1942811611723752, guid: cd73b01fe72a64f4da2ef51d263e6928,
+      type: 2}
+  - es: {instanceID: 0}
+  executionOrder: -2
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

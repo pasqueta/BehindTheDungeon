@@ -1,0 +1,453 @@
+fileFormatVersion: 2
+guid: ca882fe0b7305e04d94212d2aed8fda6
+timeCreated: 1521499461
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: colonne
+    100004: fence
+    100006: fence 1
+    100008: fence1
+    100010: fence2
+    100012: fence3
+    100014: floor2
+    100016: group1
+    100018: group2
+    100020: group2 1
+    100022: group2 2
+    100024: group2 3
+    100026: group3
+    100028: group4
+    100030: group5
+    100032: SM_fence010
+    100034: SM_fence04
+    100036: SM_fence04 1
+    100038: SM_fence04 2
+    100040: SM_fence04 3
+    100042: SM_fence05
+    100044: SM_fence05 1
+    100046: SM_fence05 2
+    100048: SM_fence05 3
+    100050: SM_fence06
+    100052: SM_fence06 1
+    100054: SM_fence06 2
+    100056: SM_fence06 3
+    100058: SM_fence07
+    100060: SM_fence07 1
+    100062: SM_fence07 2
+    100064: SM_fence07 3
+    100066: SM_fence08
+    100068: SM_fence08 1
+    100070: SM_fence08 2
+    100072: SM_fence08 3
+    100074: SM_fence09
+    100076: SM_floor34
+    100078: SM_floor35
+    100080: SM_floor37
+    100082: SM_floor37 1
+    100084: SM_floor38
+    100086: SM_floor38 1
+    100088: SM_floor39
+    100090: SM_floor39 1
+    100092: SM_floor40
+    100094: SM_floor41
+    100096: SM_floor41 1
+    100098: SM_floor41 2
+    100100: SM_floor42
+    100102: SM_floor42 1
+    100104: SM_floor42 2
+    100106: SM_floor43
+    100108: SM_floor43 1
+    100110: SM_floor43 2
+    100112: SM_floor44
+    100114: SM_floor44 1
+    100116: SM_floor44 2
+    100118: SM_floor45
+    100120: SM_floor45 1
+    100122: SM_floor46
+    100124: SM_floor46 1
+    100126: SM_floor46 2
+    100128: SM_floor47
+    100130: SM_floor47 1
+    100132: SM_floor47 2
+    100134: SM_pillarHuge22
+    100136: SM_pillarHuge23
+    100138: SM_pillarHuge24
+    100140: SM_pillarHuge25
+    100142: SM_fence011
+    100144: SM_fence012
+    100146: SM_fence013
+    100148: SM_fence014
+    100150: SM_fence015
+    100152: SM_fence016
+    100154: SM_floor100
+    100156: SM_floor101
+    100158: SM_floor96
+    100160: SM_floor97
+    100162: SM_floor98
+    100164: SM_floor99
+    400000: //RootNode
+    400002: colonne
+    400004: fence
+    400006: fence 1
+    400008: fence1
+    400010: fence2
+    400012: fence3
+    400014: floor2
+    400016: group1
+    400018: group2
+    400020: group2 1
+    400022: group2 2
+    400024: group2 3
+    400026: group3
+    400028: group4
+    400030: group5
+    400032: SM_fence010
+    400034: SM_fence04
+    400036: SM_fence04 1
+    400038: SM_fence04 2
+    400040: SM_fence04 3
+    400042: SM_fence05
+    400044: SM_fence05 1
+    400046: SM_fence05 2
+    400048: SM_fence05 3
+    400050: SM_fence06
+    400052: SM_fence06 1
+    400054: SM_fence06 2
+    400056: SM_fence06 3
+    400058: SM_fence07
+    400060: SM_fence07 1
+    400062: SM_fence07 2
+    400064: SM_fence07 3
+    400066: SM_fence08
+    400068: SM_fence08 1
+    400070: SM_fence08 2
+    400072: SM_fence08 3
+    400074: SM_fence09
+    400076: SM_floor34
+    400078: SM_floor35
+    400080: SM_floor37
+    400082: SM_floor37 1
+    400084: SM_floor38
+    400086: SM_floor38 1
+    400088: SM_floor39
+    400090: SM_floor39 1
+    400092: SM_floor40
+    400094: SM_floor41
+    400096: SM_floor41 1
+    400098: SM_floor41 2
+    400100: SM_floor42
+    400102: SM_floor42 1
+    400104: SM_floor42 2
+    400106: SM_floor43
+    400108: SM_floor43 1
+    400110: SM_floor43 2
+    400112: SM_floor44
+    400114: SM_floor44 1
+    400116: SM_floor44 2
+    400118: SM_floor45
+    400120: SM_floor45 1
+    400122: SM_floor46
+    400124: SM_floor46 1
+    400126: SM_floor46 2
+    400128: SM_floor47
+    400130: SM_floor47 1
+    400132: SM_floor47 2
+    400134: SM_pillarHuge22
+    400136: SM_pillarHuge23
+    400138: SM_pillarHuge24
+    400140: SM_pillarHuge25
+    400142: SM_fence011
+    400144: SM_fence012
+    400146: SM_fence013
+    400148: SM_fence014
+    400150: SM_fence015
+    400152: SM_fence016
+    400154: SM_floor100
+    400156: SM_floor101
+    400158: SM_floor96
+    400160: SM_floor97
+    400162: SM_floor98
+    400164: SM_floor99
+    2300000: //RootNode
+    2300002: SM_fence010
+    2300004: SM_fence04
+    2300006: SM_fence04 1
+    2300008: SM_fence04 2
+    2300010: SM_fence04 3
+    2300012: SM_fence05
+    2300014: SM_fence05 1
+    2300016: SM_fence05 2
+    2300018: SM_fence05 3
+    2300020: SM_fence06
+    2300022: SM_fence06 1
+    2300024: SM_fence06 2
+    2300026: SM_fence06 3
+    2300028: SM_fence07
+    2300030: SM_fence07 1
+    2300032: SM_fence07 2
+    2300034: SM_fence07 3
+    2300036: SM_fence08
+    2300038: SM_fence08 1
+    2300040: SM_fence08 2
+    2300042: SM_fence08 3
+    2300044: SM_fence09
+    2300046: SM_floor34
+    2300048: SM_floor35
+    2300050: SM_floor37
+    2300052: SM_floor37 1
+    2300054: SM_floor38
+    2300056: SM_floor38 1
+    2300058: SM_floor39
+    2300060: SM_floor39 1
+    2300062: SM_floor40
+    2300064: SM_floor41
+    2300066: SM_floor41 1
+    2300068: SM_floor41 2
+    2300070: SM_floor42
+    2300072: SM_floor42 1
+    2300074: SM_floor42 2
+    2300076: SM_floor43
+    2300078: SM_floor43 1
+    2300080: SM_floor43 2
+    2300082: SM_floor44
+    2300084: SM_floor44 1
+    2300086: SM_floor44 2
+    2300088: SM_floor45
+    2300090: SM_floor45 1
+    2300092: SM_floor46
+    2300094: SM_floor46 1
+    2300096: SM_floor46 2
+    2300098: SM_floor47
+    2300100: SM_floor47 1
+    2300102: SM_floor47 2
+    2300104: SM_pillarHuge22
+    2300106: SM_pillarHuge23
+    2300108: SM_pillarHuge24
+    2300110: SM_pillarHuge25
+    2300112: SM_fence011
+    2300114: SM_fence012
+    2300116: SM_fence013
+    2300118: SM_fence014
+    2300120: SM_fence015
+    2300122: SM_fence016
+    2300124: SM_floor100
+    2300126: SM_floor101
+    2300128: SM_floor96
+    2300130: SM_floor97
+    2300132: SM_floor98
+    2300134: SM_floor99
+    3300000: //RootNode
+    3300002: SM_fence010
+    3300004: SM_fence04
+    3300006: SM_fence04 1
+    3300008: SM_fence04 2
+    3300010: SM_fence04 3
+    3300012: SM_fence05
+    3300014: SM_fence05 1
+    3300016: SM_fence05 2
+    3300018: SM_fence05 3
+    3300020: SM_fence06
+    3300022: SM_fence06 1
+    3300024: SM_fence06 2
+    3300026: SM_fence06 3
+    3300028: SM_fence07
+    3300030: SM_fence07 1
+    3300032: SM_fence07 2
+    3300034: SM_fence07 3
+    3300036: SM_fence08
+    3300038: SM_fence08 1
+    3300040: SM_fence08 2
+    3300042: SM_fence08 3
+    3300044: SM_fence09
+    3300046: SM_floor34
+    3300048: SM_floor35
+    3300050: SM_floor37
+    3300052: SM_floor37 1
+    3300054: SM_floor38
+    3300056: SM_floor38 1
+    3300058: SM_floor39
+    3300060: SM_floor39 1
+    3300062: SM_floor40
+    3300064: SM_floor41
+    3300066: SM_floor41 1
+    3300068: SM_floor41 2
+    3300070: SM_floor42
+    3300072: SM_floor42 1
+    3300074: SM_floor42 2
+    3300076: SM_floor43
+    3300078: SM_floor43 1
+    3300080: SM_floor43 2
+    3300082: SM_floor44
+    3300084: SM_floor44 1
+    3300086: SM_floor44 2
+    3300088: SM_floor45
+    3300090: SM_floor45 1
+    3300092: SM_floor46
+    3300094: SM_floor46 1
+    3300096: SM_floor46 2
+    3300098: SM_floor47
+    3300100: SM_floor47 1
+    3300102: SM_floor47 2
+    3300104: SM_pillarHuge22
+    3300106: SM_pillarHuge23
+    3300108: SM_pillarHuge24
+    3300110: SM_pillarHuge25
+    3300112: SM_fence011
+    3300114: SM_fence012
+    3300116: SM_fence013
+    3300118: SM_fence014
+    3300120: SM_fence015
+    3300122: SM_fence016
+    3300124: SM_floor100
+    3300126: SM_floor101
+    3300128: SM_floor96
+    3300130: SM_floor97
+    3300132: SM_floor98
+    3300134: SM_floor99
+    4300000: floor_peon2
+    4300002: SM_pillarHuge25
+    4300004: SM_pillarHuge24
+    4300006: SM_pillarHuge23
+    4300008: SM_pillarHuge22
+    4300010: SM_fence08
+    4300012: SM_fence07
+    4300014: SM_fence06
+    4300016: SM_fence05
+    4300018: SM_fence04
+    4300020: SM_fence09
+    4300022: SM_fence010
+    4300024: SM_fence08
+    4300026: SM_fence07
+    4300028: SM_fence06
+    4300030: SM_fence05
+    4300032: SM_fence04
+    4300034: SM_fence08
+    4300036: SM_fence07
+    4300038: SM_fence06
+    4300040: SM_fence05
+    4300042: SM_fence04
+    4300044: SM_fence08
+    4300046: SM_fence07
+    4300048: SM_fence06
+    4300050: SM_fence05
+    4300052: SM_fence04
+    4300054: SM_floor44
+    4300056: SM_floor43
+    4300058: SM_floor42
+    4300060: SM_floor41
+    4300062: SM_floor47
+    4300064: SM_floor46
+    4300066: SM_floor45
+    4300068: SM_floor44
+    4300070: SM_floor43
+    4300072: SM_floor42
+    4300074: SM_floor41
+    4300076: SM_floor39
+    4300078: SM_floor38
+    4300080: SM_floor37
+    4300082: SM_floor47
+    4300084: SM_floor46
+    4300086: SM_floor44
+    4300088: SM_floor43
+    4300090: SM_floor42
+    4300092: SM_floor41
+    4300094: SM_floor47
+    4300096: SM_floor46
+    4300098: SM_floor45
+    4300100: SM_floor40
+    4300102: SM_floor39
+    4300104: SM_floor38
+    4300106: SM_floor37
+    4300108: SM_floor34
+    4300110: SM_floor35
+    4300112: SM_fence012
+    4300114: SM_fence014
+    4300116: SM_fence016
+    4300118: SM_fence011
+    4300120: SM_fence013
+    4300122: SM_fence015
+    4300124: SM_floor97
+    4300126: SM_floor99
+    4300128: SM_floor101
+    4300130: SM_floor98
+    4300132: SM_floor96
+    4300134: SM_floor100
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
